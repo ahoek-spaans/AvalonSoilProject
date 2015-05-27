@@ -1,0 +1,30 @@
+site_id,NLCD_Class,beta_value
+D01BART,Deciduous Forest,0.8966092
+D01HARV,Deciduous Forest,0.9432498
+D02BLAN,Cultivated Crops,0.9462715
+D02SCBI,Deciduous Forest,0.9834505
+D02SERC,Deciduous Forest,0.9451211
+D03DSNY,Developed Open Space,0.9432145
+D03JERC,Developed Open Space,0.9807949
+D03OSBS,Evergreen Forest,0.9658058
+D04LAJA,Cultivated Crops,0.9800392
+D04MAME,Evergreen Forest,0.9730467
+D05UNDE,Mixed Forest,0.9590112
+D06KONZ,Grassland Herbaceous,0.9383219
+D06UKFS,Deciduous Forest,0.9767522
+D07MLBS,Mixed Forest,0.9372791
+D07ORNL,Mixed Forest,0.9522918
+D08DELA,Woody Wetlands,0.9712012
+D08TALL,Evergreen Forest,0.9630336
+D09DCFS,Grassland Herbaceous,0.8955183
+D09NGPRL,Grassland Herbaceous,0.8578234
+D09WOOD,Grassland Herbaceous,0.9084506
+D10CPER,Grassland Herbaceous,0.9639799
+D10RMNP,Deciduous Forest,0.9253486
+D10STER,Cultivated Crops,0.9709687
+D11OAES,Grassland Herbaceous,0.8505551
+D13MOAB,Shrub Scrub,0.9430752
+D13NIWO,Perennial Ice Snow,0.8587283
+D14JORN,Shrub Scrub,0.951555
+D14SRER,Shrub Scrub,0.9777175
+D15ONAQ,Shrub Scrub,0.9779661

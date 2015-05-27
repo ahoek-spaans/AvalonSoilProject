@@ -1,0 +1,90 @@
+setwd("C:/Users/ahogeboom/Documents")
+
+df <- read.csv("soil_pit_root_samples_calculations_1.csv")
+
+head(df)
+
+x <- df[, "depth"]
+
+head(depth)
+
+#y <- as.numeric(as.character(df[, "mg.cm.3"]), stringsAsFactors = FALSE)
+head(root_prop)
+
+y <- df[, 23]
+
+library(lattice)
+library(nlme)
+library(MASS)
+
+xyplot(depth ~  root_prop_of_total| site_id, data=df, ylab = "soil depth from surface (cm)", xlab = "cumulative root fraction (Y)", main = "biomass at depth for 29 NEON sites", layout =c(6,5), ylim = c(200,0), pch = 16, col =1,
+         panel.xyplot(root_prop_total, depth, ...),
+         beta <- nlsList(root_prop_of_total ~ 1-B^(depth) | site_id, start = list(B=0.9), data = subset(df, select=c(site_id, profile, depth, root_prop_of_total))),
+         model <- nlme(root_prop_of_total ~ 1-B^(depth) | site_id, model = "ML",  data =subset(df, select=c(site_id, profile, depth, root_prop_of_total)), groups = site_id) 
+         panel=panel.superpose(beta, panel.groups=function(beta)){
+         limits <- seq(0, 200)
+         line <- lines(limits, predict(beta), data.frame(x=limits))
+         fit.fun <- function(lines)predict(beta)
+         panel.curve(fit.fun)})
+
+
+
+
+ Y = 1-B^d #B (beta) is a numerical index of rooting distribution, where d=depth, and Y=the proportion of rotts from the surface to depth. 
+ 
+#step(AIC)
+         
+
+
+
+beta <- nlsList(root_prop_of_total ~ 1-B^(depth) | site_id, start = list(B=0.9), data = subset(df, select=c(site_id, profile, depth, root_prop_of_total)))
+
+#beta <- nlsList(root_prop ~ 1-B^(depth) | "site_id", start = list(B=0.8), data = fig1)
+#m1 = nls(lignin~a*exp(-b*aromatic)+c, start=list(a=0.4, b=19.6, c=0.05), data=fig3)
+
+data = subset(df, select=c(site_id, depth, root_prop_of_total))
+
+
+
+
+
+
+
+
+
+#lm(y~x, subset(df, subset=(site_id == "D01HARV"))
+
+#plot(x,y, subset(df,site_id== "D01HARV")
+
+#plot(lm(y~x))
+
+#HARV <- subset(df, select=c(depth, mg.cm.3), subset=(site_id == "D01HARV"))
+     
+#x1 <- HARV[, "depth"]     
+#y1 <- HARV[, "mg.cm.3"]     
+#plot(x1,y1)   
+     
+#site_ids <- df2[, 1]
+
+HARV <- subset(df, select=c(depth, mg.cm.3), subset=(site_id == "D01HARV"))
+
+
+     
+
+plotall <- function(site_id){
+  df <- read.csv("soil_pit_root_samples_calculations_1.csv")
+  #site_ids <- df[, 1]
+  df2 <- subset(df, select=c(site_id, depth, mg.cm.3))
+  df3 <- split(df2, df2$site_id) #divides the data frame into smaller data frames broken out by site. 
+  x <- as.numeric(df3[, "depth"])
+  y <- as.numeric(df3[, "mg.cm.3"])
+  
+  
+  
+  
+  
+  
+  
+}
+ 
+site_id = "D01HARV"
