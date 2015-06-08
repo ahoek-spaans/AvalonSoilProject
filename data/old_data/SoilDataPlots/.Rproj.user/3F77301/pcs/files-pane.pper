@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitHub/AvalonSoilProject/data/old_data/SoilDataPlots",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

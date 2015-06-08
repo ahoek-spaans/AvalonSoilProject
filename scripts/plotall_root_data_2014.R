@@ -1,14 +1,13 @@
-setwd("C:/Users/ahogeboom/Documents")
+setwd("C:Users\ahoek-spaans\Documents\GitHub\AvalonSoilProject")
 
-df <- read.csv("soil_pit_root_samples_calculations_1.csv")
+df <- read.csv("soil_pit_data.csv")
 
 head(df)
 
 x <- df[, "depth"]
 
 head(depth)
-
-#y <- as.numeric(as.character(df[, "mg.cm.3"]), stringsAsFactors = FALSE)
+y <- as.numeric(as.character(df[, "mg.cm.3"]), stringsAsFactors = FALSE)
 head(root_prop)
 
 y <- df[, 23]
@@ -31,16 +30,16 @@ xyplot(depth ~  root_prop_of_total| site_id, data=df, ylab = "soil depth from su
 
 
  Y = 1-B^d #B (beta) is a numerical index of rooting distribution, where d=depth, and Y=the proportion of rotts from the surface to depth. 
- 
-#step(AIC)
+
+step(AIC)
          
 
 
 
 beta <- nlsList(root_prop_of_total ~ 1-B^(depth) | site_id, start = list(B=0.9), data = subset(df, select=c(site_id, profile, depth, root_prop_of_total)))
 
-#beta <- nlsList(root_prop ~ 1-B^(depth) | "site_id", start = list(B=0.8), data = fig1)
-#m1 = nls(lignin~a*exp(-b*aromatic)+c, start=list(a=0.4, b=19.6, c=0.05), data=fig3)
+beta <- nlsList(root_prop ~ 1-B^(depth) | "site_id", start = list(B=0.8), data = fig1)
+m1 = nls(lignin~a*exp(-b*aromatic)+c, start=list(a=0.4, b=19.6, c=0.05), data=fig3)
 
 data = subset(df, select=c(site_id, depth, root_prop_of_total))
 
@@ -52,21 +51,21 @@ data = subset(df, select=c(site_id, depth, root_prop_of_total))
 
 
 
-#lm(y~x, subset(df, subset=(site_id == "D01HARV"))
+lm(y~x, subset(df, subset=(site_id == "D01HARV"))
 
-#plot(x,y, subset(df,site_id== "D01HARV")
+lot(x,y, subset(df,site_id== "D01HARV")
 
-#plot(lm(y~x))
-
-#HARV <- subset(df, select=c(depth, mg.cm.3), subset=(site_id == "D01HARV"))
-     
-#x1 <- HARV[, "depth"]     
-#y1 <- HARV[, "mg.cm.3"]     
-#plot(x1,y1)   
-     
-#site_ids <- df2[, 1]
+plot(lm(y~x))
 
 HARV <- subset(df, select=c(depth, mg.cm.3), subset=(site_id == "D01HARV"))
+     
+x1 <- HARV[, "depth"]     
+y1 <- HARV[, "mg.cm.3"]     
+plot(x1,y1)   
+     
+site_ids <- df2[, 1]
+
+HARV <- subset(df, select=c(depth, mg.cm.3), subset=(site_ids == "D01HARV"))
 
 
      
@@ -88,3 +87,4 @@ plotall <- function(site_id){
 }
  
 site_id = "D01HARV"
+
