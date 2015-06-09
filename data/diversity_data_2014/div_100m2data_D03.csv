@@ -1,0 +1,1482 @@
+2,"OSBS_011","40","QUGE2",,"D03MLK24","D03JAK04",
+3,"OSBS_011","40","QUHE2",,"D03MLK24","D03JAK04",
+4,"OSBS_011","40","PIEL",,"D03MLK24","D03JAK04",
+5,"OSBS_011","40","PEBO",,"D03MLK24","D03JAK04",
+6,"OSBS_011","41","VIRO3",,"D03MLK24","D03JAK04","no transcription errors found"
+7,"OSBS_011","41","PEPA37",,"D03MLK24","D03JAK04",
+8,"OSBS_011","41","VAAR",,"D03MLK24","D03JAK04",
+9,"OSBS_011","41","SMGL",,"D03MLK24","D03JAK04",
+10,"OSBS_011","41","SMAU",,"D03MLK24","D03JAK04",
+11,"OSBS_016","31","MOCE2",,"D03MLK24","D03DWB07",
+12,"OSBS_016","31","PITA",,"D03MLK24","D03DWB07","no transcription errors found"
+13,"OSBS_016","31","JUEF",,"D03MLK24","D03DWB07",
+15,"OSBS_016","32","CYRE5","cf. species","D03MLK24","D03DWB07","no transcription errors found"
+16,"OSBS_016","32","DIAC","cf. species","D03MLK24","D03DWB07","no transcription errors found"
+17,"OSBS_016","32","VIRO3",,"D03MLK24","D03DWB07",
+18,"OSBS_016","32","LYLU3",,"D03MLK24","D03DWB07",
+19,"OSBS_016","32","SMBO2",,"D03MLK24","D03DWB07",
+20,"OSBS_016","32","GADU",,"D03MLK24","D03DWB07",
+21,"OSBS_016","32","VAAR",,"D03MLK24","D03DWB07",
+22,"OSBS_016","40","PIEL",,"D03MLK24","D03DWB07",
+23,"OSBS_016","40","VAMY3",,"D03MLK24","D03DWB07","no transcription errors found"
+25,"OSBS_016","41","PAHE2",,"D03MLK24","D03JAK04",
+26,"OSBS_016","41","LYLU3",,"D03MLK24","D03JAK04",
+27,"OSBS_016","41","MOCE2",,"D03MLK24","D03JAK04",
+28,"OSBS_017","31","LIST2",,"D03MLK24","D03JAK04",
+29,"OSBS_017","31","ILCA",,"D03MLK24","D03JAK04",
+30,"OSBS_017","31","QUNI",,"D03MLK24","D03JAK04",
+31,"OSBS_017","31","PLPO2",,"D03MLK24","D03JAK04",
+32,"OSBS_017","31","NYBI",,"D03MLK24","D03JAK04","no transcription errors found"
+33,"OSBS_017","31","ILOP",,"D03MLK24","D03JAK04",
+34,"OSBS_017","31","TIRE",,"D03MLK24","D03JAK04",
+35,"OSBS_017","31","GOLA",,"D03MLK24","D03JAK04",
+36,"OSBS_017","32","LIST2",,"D03MLK24","D03JAK04",
+37,"OSBS_017","32","PEPA37",,"D03MLK24","D03JAK04",
+38,"OSBS_017","40","VAFU",,"D03MLK24","D03DWB07",
+39,"OSBS_017","40","QUNI",,"D03MLK24","D03DWB07",
+40,"OSBS_017","41","SERE2",,"D03MLK24","D03DWB07",
+41,"OSBS_017","41","LIST2",,"D03MLK24","D03DWB07",
+42,"OSBS_017","41","VAFU",,"D03MLK24","D03DWB07","no transcription errors found"
+43,"OSBS_017","41","ILCA",,"D03MLK24","D03DWB07",
+44,"OSBS_012","31","CEOC2",,"D03MLK24","D03JAK04","no transcription errors found"
+45,"OSBS_001","31","QUNI",,"D03MLK24","D03DWB07",
+46,"OSBS_001","31","MIRE",,"D03MLK24","D03DWB07",
+47,"OSBS_001","31","SMSM",,"D03MLK24","D03DWB07",
+48,"OSBS_001","31","TIBA3",,"D03MLK24","D03DWB07","no transcription errors found"
+49,"OSBS_001","31","GOLA",,"D03MLK24","D03DWB07",
+50,"OSBS_001","32","LYFE",,"D03MLK24","D03DWB07",
+51,"OSBS_001","32","VAST",,"D03MLK24","D03DWB07",
+52,"OSBS_001","32","GOLA",,"D03MLK24","D03DWB07",
+53,"OSBS_001","32","SMSM","CS","D03MLK24","D03DWB07","no transcription errors found"
+54,"OSBS_001","32","VIRO3",,"D03MLK24","D03DWB07",
+55,"OSBS_001","32","SMAU",,"D03MLK24","D03DWB07",
+56,"OSBS_001","32","PLPO2",,"D03MLK24","D03DWB07",
+57,"OSBS_001","32","PTAQ",,"D03MLK24","D03DWB07","Identified UNK281; no transcription errors found"
+58,"OSBS_001","40","TIRE",,"D03MLK24","D03DWB07","no transcription errors found"
+59,"OSBS_001","41","PEPA37",,"D03MLK24","D03DWB07",
+60,"OSBS_001","41","OSCI",,"D03MLK24","D03DWB07",
+61,"OSBS_023","31","ANGL2",,"D03MLK24","D03JAK04","no transcription errors found"
+62,"OSBS_023","31","ACRUT",,"D03MLK24","D03JAK04",
+63,"OSBS_023","31","EUCO7",,"D03MLK24","D03JAK04",
+64,"OSBS_023","31","ILMY","cf. species","D03MLK24","D03JAK04","no transcription errors found"
+65,"OSBS_023","31","CEOC2",,"D03MLK24","D03JAK04",
+66,"OSBS_023","32","SMSM",,"D03MLK24","D03JAK04",
+67,"OSBS_023","32","ACRUT",,"D03MLK24","D03JAK04",
+68,"OSBS_023","32","ANGL2",,"D03MLK24","D03JAK04",
+69,"OSBS_023","32","PHAM4",,"D03MLK24","D03JAK04",
+70,"OSBS_023","32","ILMY",,"D03MLK24","D03JAK04",
+71,"OSBS_023","40","CLMAJ",,"D03MLK24","D03JAK04",
+72,"OSBS_023","40","ILOP",,"D03MLK24","D03JAK04","changed ILOPA to ILOP; no transcription errors found"
+73,"OSBS_011","31","MOCE2",,"D03MLK24","D03JAK04",
+74,"OSBS_011","31","ILGL",,"D03MLK24","D03JAK04",
+75,"OSBS_011","31","BERA3",,"D03MLK24","D03JAK04",
+76,"OSBS_011","31","PHPY4",,"D03MLK24","D03JAK04",
+77,"OSBS_011","31","SMAU",,"D03MLK24","D03JAK04",
+78,"OSBS_011","32","QUGE2",,"D03MLK24","D03JAK04","no transcription errors found"
+79,"OSBS_011","32","ILOP",,"D03MLK24","D03JAK04",
+80,"OSBS_011","32","PHPY4",,"D03MLK24","D03JAK04",
+81,"OSBS_011","32","PHAM4",,"D03MLK24","D03JAK04",
+82,"OSBS_011","32","DIAC","cf. species","D03MLK24","D03JAK04","no transcription errors found"
+83,"OSBS_016","40","QUCH",,"D03MLK24","D03DWB07","unknown 284 identified; no transcription errors found"
+84,"OSBS_003","31","SCCI",,"D03MLK24","D03FAV28","Identified U292, no transcription errors found"
+85,"OSBS_003","31","OPHU",,"D03MLK24","D03FAV28",
+86,"OSBS_003","31","SOOD",,"D03MLK24","D03FAV28",
+87,"OSBS_003","31","VAST",,"D03MLK24","D03FAV28","no transcription errors found"
+88,"OSBS_003","31","ELEL3",,"D03MLK24","D03FAV28",
+89,"OSBS_003","31","ASIN12",,"D03MLK24","D03FAV28",
+90,"OSBS_003","31","PITA",,"D03MLK24","D03FAV28",
+91,"OSBS_003","31","SMSM",,"D03MLK24","D03FAV28",
+92,"OSBS_003","31","PIPA2",,"D03MLK24","D03FAV28",
+93,"OSBS_003","32","ELEL3",,"D03MLK24","D03FAV28",
+94,"OSBS_003","32","RHCI3",,"D03MLK24","D03FAV28",
+95,"OSBS_003","32","DIAC",,"D03MLK24","D03FAV28",
+96,"OSBS_003","32","VAAR",,"D03MLK24","D03FAV28",
+97,"OSBS_003","32","TIRE",,"D03MLK24","D03FAV28",
+98,"OSBS_003","32","PTPY2",,"D03MLK24","D03FAV28","no transcription errors found"
+99,"OSBS_003","32","CAAM2",,"D03MLK24","D03FAV28",
+100,"OSBS_003","32","PITA",,"D03MLK24","D03FAV28",
+101,"OSBS_003","32","HOPR",,"D03MLK24","D03FAV28",
+102,"OSBS_003","32","SCCI",,"D03MLK24","D03FAV28",
+103,"OSBS_003","32","ASIN12",,"D03MLK24","D03FAV28",
+104,"OSBS_003","32","SOOD",,"D03MLK24","D03FAV28",
+105,"OSBS_003","32","SMSM",,"D03MLK24","D03FAV28",
+106,"OSBS_003","40","HYHY",,"D03MLK24","D03FAV28",
+107,"OSBS_003","40","PICL",,"D03MLK24","D03FAV28",
+108,"OSBS_003","40","PRSE2",,"D03MLK24","D03FAV28",
+109,"OSBS_003","40","VAAR",,"D03MLK24","D03FAV28",
+110,"OSBS_003","40","DIER4",,"D03MLK24","D03FAV28",
+111,"OSBS_003","40","CAAM2",,"D03MLK24","D03FAV28","no transcription errors found"
+112,"OSBS_003","40","UNK293",,"D03MLK24","D03FAV28","no transcription errors found"
+113,"OSBS_003","40","SMLA",,"D03MLK24","D03FAV28",
+114,"OSBS_003","41","PLPO2",,"D03MLK24","D03DWB07",
+115,"OSBS_003","41","VAAR",,"D03MLK24","D03DWB07","no transcription errors found"
+116,"OSBS_003","41","CAAM2",,"D03MLK24","D03DWB07",
+117,"OSBS_003","41","HOPR",,"D03MLK24","D03DWB07",
+118,"OSBS_003","41","MOUN3",,"D03MLK24","D03DWB07",
+119,"OSBS_015","31","DIAC2",,"D03ALW14","D03JAK04",
+120,"OSBS_015","31","RHMA",,"D03ALW14","D03JAK04","no transcription errors found"
+121,"OSBS_015","32","RHMA",,"D03ALW14","D03JAK04",
+122,"OSBS_015","32","VAAR",,"D03ALW14","D03JAK04",
+123,"OSBS_015","32","VAST",,"D03ALW14","D03JAK04","no transcription errors found"
+124,"OSBS_015","32","PICL",,"D03ALW14","D03JAK04",
+125,"OSBS_015","32","QUHE2",,"D03ALW14","D03JAK04",
+126,"OSBS_015","32","MOCE2",,"D03ALW14","D03JAK04",
+127,"OSBS_015","40","WOVI",,"D03ALW14","D03JAK04","no transcription errors found"
+128,"OSBS_015","40","RUAR2",,"D03ALW14","D03JAK04",
+129,"OSBS_015","41","WOVI",,"D03ALW14","D03JAK04",
+130,"OSBS_015","41","NYBI",,"D03ALW14","D03JAK04",
+131,"OSBS_015","41","PLPO2",,"D03ALW14","D03JAK04","no transcription errors found"
+132,"OSBS_015","41","ILFE","cf. species","D03ALW14","D03JAK04","no transcription errors found"
+133,"OSBS_015","41","QUHE2",,"D03ALW14","D03JAK04",
+134,"OSBS_015","41","PEPA37",,"D03ALW14","D03JAK04",
+135,"OSBS_015","41","VAAR",,"D03ALW14","D03JAK04",
+136,"OSBS_015","41","ILMY",,"D03ALW14","D03JAK04",
+137,"OSBS_012","32","CEOC2",,"D03MLK24","D03JAK04","no transcription errors found"
+138,"OSBS_012","40",,,"D03MLK24","D03JAK04","no new plants; no transcription errors found"
+139,"OSBS_012","41","CEOC2",,"D03MLK24","D03JAK04","no transcription errors found"
+140,"OSBS_018","31","VAMY3",,"D03MLK24","D03FAV28","no transcription errors found"
+141,"OSBS_018","31","LYLU2",,"D03MLK24","D03FAV28",
+142,"OSBS_018","31","ILOP",,"D03MLK24","D03FAV28",
+143,"OSBS_018","31","SMAU",,"D03MLK24","D03FAV28",
+144,"OSBS_018","32","VAAR",,"D03MLK24","D03FAV28",
+145,"OSBS_018","32","QUHE2","cf. species","D03MLK24","D03FAV28","no transcription errors found"
+146,"OSBS_018","40","CEER3",,"D03MLK24","D03FAV28",
+147,"OSBS_018","40","DIAC",,"D03MLK24","D03FAV28",
+148,"OSBS_018","40","U289",,"D03MLK24","D03FAV28","U289 thick hairy panicum; no transcription errors found"
+149,"OSBS_018","40","MOCE2",,"D03MLK24","D03FAV28",
+150,"OSBS_018","40","VAMY3",,"D03MLK24","D03FAV28","no transcription errors found"
+151,"OSBS_018","40","VAST",,"D03MLK24","D03FAV28",
+152,"OSBS_018","40","U290",,"D03MLK24","D03FAV28","U290 SCCI; no transcription errors found"
+153,"OSBS_018","40","U291",,"D03MLK24","D03FAV28","U291 Sharp Margin Grass; no transcription errors found"
+154,"OSBS_018","41","SMAU",,"D03MLK24","D03FAV28",
+155,"OSBS_018","41","VAAR",,"D03MLK24","D03FAV28",
+156,"OSBS_018","41","RHCO",,"D03MLK24","D03FAV28",
+157,"OSBS_018","41","SMGL",,"D03MLK24","D03FAV28",
+158,"OSBS_020","31","VIRO3",,"D03MLK24","D03JAK04","no transcription errors found"
+159,"OSBS_020","31","TIRE",,"D03MLK24","D03JAK04",
+160,"OSBS_020","32","PICL",,"D03MLK24","D03JAK04",
+161,"OSBS_020","40","VAMY3",,"D03MLK24","D03JAK04",
+162,"OSBS_020","40","QUHE2",,"D03MLK24","D03JAK04",
+163,"OSBS_020","41","PITA",,"D03MLK24","D03JAK04",
+164,"OSBS_020","41","QUGE2",,"D03MLK24","D03JAK04",
+165,"OSBS_009","31","DEVE",,"D03MLK24","D03JAK04","no transcription errors found"
+166,"OSBS_009","31","SMPO",,"D03MLK24","D03JAK04",
+167,"OSBS_009","31","NYBI",,"D03MLK24","D03JAK04",
+168,"OSBS_009","31","ILCA",,"D03MLK24","D03JAK04",
+169,"OSBS_009","31","GOLA",,"D03MLK24","D03JAK04",
+170,"OSBS_009","31","TIUS",,"D03MLK24","D03JAK04",
+171,"OSBS_009","31","UNK302",,"D03MLK24","D03JAK04","UNK302 (smilax imposter); no transcription errors found"
+172,"OSBS_009","31","SAPA",,"D03MLK24","D03JAK04",
+173,"OSBS_009","32","QUNI",,"D03MLK24","D03JAK04",
+174,"OSBS_009","32","UNK297",,"D03MLK24","D03JAK04","no transcription errors found"
+175,"OSBS_009","32","PHAM4",,"D03MLK24","D03JAK04",
+176,"OSBS_009","32","VACO",,"D03MLK24","D03JAK04",
+177,"OSBS_009","32","PEBO",,"D03MLK24","D03JAK04",
+178,"OSBS_009","32","DEVE",,"D03MLK24","D03JAK04",
+179,"OSBS_009","32","ILCA",,"D03MLK24","D03JAK04",
+180,"OSBS_009","32","SMAU",,"D03MLK24","D03JAK04",
+181,"OSBS_009","32","UNK295",,"D03MLK24","D03JAK04","no transcription errors found"
+182,"OSBS_009","32","NYBI",,"D03MLK24","D03JAK04",
+183,"OSBS_009","40","NYBI",,"D03MLK24","D03JAK04",
+184,"OSBS_009","40","TIRE",,"D03MLK24","D03JAK04","no transciption errors found"
+185,"OSBS_009","40","GOLA",,"D03MLK24","D03JAK04",
+186,"OSBS_009","40","TIUS",,"D03MLK24","D03JAK04",
+187,"OSBS_009","40","MIRE",,"D03MLK24","D03JAK04",
+188,"OSBS_009","40","DIOV",,"D03MLK24","D03JAK04",
+189,"OSBS_009","40","PHAM4",,"D03MLK24","D03JAK04",
+190,"OSBS_009","40","SMAU",,"D03MLK24","D03JAK04",
+191,"OSBS_009","40","MOCE2",,"D03MLK24","D03JAK04",
+192,"OSBS_009","40","CAAM2",,"D03MLK24","D03JAK04",
+193,"OSBS_009","40","UNK297",,"D03MLK24","D03JAK04","no transcription errors found"
+194,"OSBS_009","41","PEPA37",,"D03MLK24","D03JAK04","no transcription errors found"
+195,"OSBS_009","41","GOLA",,"D03MLK24","D03JAK04",
+196,"OSBS_009","41","SOAM",,"D03MLK24","D03JAK04",
+197,"OSBS_009","41","NYBI",,"D03MLK24","D03JAK04","UNK306 (Nyssa); no transcription errors found"
+198,"OSBS_009","41","PAQU2",,"D03MLK24","D03JAK04",
+201,"OSBS_002","31","RUHI2",,"D03DWB07","D03KAL07",
+202,"OSBS_002","31","ERHI2",,"D03DWB07","D03KAL07",
+203,"OSBS_002","31","UNK355",,"D03DWB07","D03KAL07","no transcription errors found"
+204,"OSBS_002","31","ARFL2",,"D03DWB07","D03KAL07",
+205,"OSBS_002","31","HECA4",,"D03DWB07","D03KAL07",
+206,"OSBS_002","31","CYPO",,"D03DWB07","D03KAL07",
+207,"OSBS_002","31","CRAR2",,"D03DWB07","D03KAL07",
+208,"OSBS_002","31","CRLA7",,"D03DWB07","D03KAL07",
+209,"OSBS_002","31","SCSCS",,"D03DWB07","D03KAL07",
+210,"OSBS_002","31","DIAC2",,"D03DWB07","D03KAL07",
+211,"OSBS_002","31","STBI2",,"D03DWB07","D03KAL07",
+212,"OSBS_022","31",,,"D03MLK24","D03AMH21","NO NEW PLANTS FOUND; no transcription errors found"
+213,"OSBS_022","32","ILCA",,"D03MLK24","D03AMH21",
+214,"OSBS_022","32","ANCA4",,"D03MLK24","D03AMH21",
+215,"OSBS_022","40","ANGL2",,"D03MLK24","D03AMH21",
+216,"OSBS_022","41","ANVI2",,"D03MLK24","D03AMH21",
+217,"OSBS_002","41","MIQU2",,"D03DWB07","D03KAL07",
+218,"OSBS_002","41","TEVI",,"D03DWB07","D03KAL07",
+219,"OSBS_002","41","TRUR",,"D03DWB07","D03KAL07",
+220,"OSBS_002","41","UNK355",,"D03DWB07","D03KAL07","no transcription errors found"
+221,"OSBS_002","41","CNST",,"D03DWB07","D03KAL07",
+222,"OSBS_002","41","UNK350",,"D03DWB07","D03KAL07","no transcription errors found"
+223,"OSBS_002","41","LEHI2",,"D03DWB07","D03KAL07",
+224,"OSBS_002","41","ERAR13",,"D03DWB07","D03KAL07",
+225,"OSBS_002","41","CRLA7",,"D03DWB07","D03KAL07",
+226,"OSBS_002","41","UNK358",,"D03DWB07","D03KAL07","no transcription errors found"
+227,"OSBS_002","41","ANTET",,"D03DWB07","D03KAL07",
+228,"OSBS_002","41","SCCI",,"D03DWB07","D03KAL07",
+229,"OSBS_002","41","OPHU",,"D03DWB07","D03KAL07",
+230,"OSBS_002","41","RHRE",,"D03DWB07","D03KAL07",
+231,"OSBS_002","41","SMAU",,"D03DWB07","D03KAL07",
+232,"OSBS_002","40","PIPA2",,"D03DWB07","D03KAL07",
+233,"OSBS_002","40","ARBE7",,"D03DWB07","D03KAL07",
+234,"OSBS_002","40","PTAQ",,"D03DWB07","D03KAL07",
+235,"OSBS_002","40","ERTO2",,"D03DWB07","D03KAL07",
+236,"OSBS_002","40","TRUR",,"D03DWB07","D03KAL07",
+237,"OSBS_002","40","STSY",,"D03DWB07","D03KAL07",
+238,"OSBS_002","40","ANTET",,"D03DWB07","D03KAL07",
+239,"OSBS_002","40","HECA4",,"D03DWB07","D03KAL07",
+240,"OSBS_002","32","GYAM",,"D03DWB07","D03KAL07",
+241,"OSBS_002","32","PASE5",,"D03DWB07","D03KAL07",
+242,"OSBS_002","32","ERTO2",,"D03DWB07","D03KAL07",
+243,"OSBS_002","32","CRAR2",,"D03DWB07","D03KAL07",
+244,"OSBS_002","32","ANTET",,"D03DWB07","D03KAL07",
+245,"OSBS_002","31","STSY",,"D03DWB07","D03KAL07",
+246,"OSBS_002","31","CACO37",,"D03DWB07","D03KAL07","Carphiphorus carimboa"
+247,"DSNY_021","31","RISC",,"D03MLK24","D03JAK04","no transcription errors found"
+248,"DSNY_021","31","UNK019",,"D03MLK24","D03JAK04","no transcription errors found"
+249,"DSNY_021","31","UNK017",,"D03MLK24","D03JAK04","no transcription errors found"
+250,"DSNY_021","31","SOAS",,"D03MLK24","D03JAK04",
+251,"DSNY_021","31","POPR",,"D03MLK24","D03JAK04",
+252,"DSNY_021","32","MOCE2",,"D03MLK24","D03JAK04",
+253,"DSNY_021","32","UNK014",,"D03MLK24","D03JAK04","no transcription errors found"
+254,"DSNY_021","32","UNK018",,"D03MLK24","D03JAK04","no transcription errors found"
+255,"DSNY_021","32","SERE2",,"D03MLK24","D03JAK04","no transcription errors found"
+256,"DSNY_021","32","UNK026",,"D03MLK24","D03JAK04","no transcription errors found"
+257,"DSNY_021","40","CAAM2",,"D03MLK24","D03JAK04",
+258,"DSNY_021","40","ASRE7",,"D03MLK24","D03JAK04",
+259,"DSNY_021","40","XIAN",,"D03MLK24","D03JAK04","no transcription errors found"
+260,"DSNY_021","40","DITE2",,"D03MLK24","D03JAK04",
+261,"DSNY_021","41","UNK027",,"D03MLK24","D03JAK04","no transcription errors found"
+262,"DSNY_021","41","SOAS",,"D03MLK24","D03JAK04","no transcription errors found"
+263,"DSNY_021","41","SERE2",,"D03MLK24","D03JAK04",
+264,"DSNY_021","41","UNK019",,"D03MLK24","D03JAK04","no transcription errors found"
+265,"DSNY_021","41","SPPR2",,"D03MLK24","D03JAK04",
+266,"DSNY_021","41","PABI","cf. species","D03MLK24","D03JAK04","taxonID=PABI (NRCS code does not exits"
+267,"DSNY_021","41","CRPU",,"D03MLK24","D03JAK04",
+268,"DSNY_009","31","RHCH2",,"D03DWB07","D03ALW14","UNK2(SEDGE)"
+269,"DSNY_009","31","ASRE7",,"D03DWB07","D03ALW14",
+270,"DSNY_009","31","UNK5",,"D03DWB07","D03ALW14","UNK5(BROADLEAF)"
+271,"DSNY_009","31","CEER2",,"D03DWB07","D03ALW14",
+272,"DSNY_009","32","RHCH2",,"D03DWB07","D03ALW14","UNK2(SEDGE)"
+273,"DSNY_009","32","RUAR2",,"D03DWB07","D03ALW14","no transcription errors found"
+274,"DSNY_009","32","ASRE7",,"D03DWB07","D03ALW14",
+275,"DSNY_009","32","UNK3",,"D03DWB07","D03ALW14","UNK3(SEDGE)"
+276,"DSNY_009","32","UNK4",,"D03DWB07","D03ALW14","UNK4(LEGUME)"
+277,"DSNY_009","40","ASRE7",,"D03DWB07","D03ALW14",
+278,"DSNY_009","40","UNK4",,"D03DWB07","D03ALW14","UNK4(LEGUME)"
+279,"DSNY_009","40","UNK1",,"D03DWB07","D03ALW14","UNK1"
+280,"DSNY_009","40","HYCR3",,"D03DWB07","D03ALW14","no transcription errors found"
+281,"DSNY_009","40","ANVI2",,"D03DWB07","D03ALW14",
+282,"DSNY_009","41","SERE2",,"D03DWB07","D03ALW14",
+283,"DSNY_009","41","CEFO2",,"D03DWB07","D03ALW14",
+284,"DSNY_009","41","UNK5",,"D03DWB07","D03ALW14","UNK5(Broadleaf)"
+285,"DSNY_009","41","ERHI2",,"D03DWB07","D03ALW14","no transcription errors found"
+286,"DSNY_009","41","RUAR2",,"D03DWB07","D03ALW14",
+287,"DSNY_034","31","PIEL",,"D03DWB07","D03ALW14","no transcription errors found"
+288,"DSNY_034","31","MOCE2",,"D03DWB07","D03ALW14",
+289,"DSNY_034","31","BUAM",,"D03DWB07","D03ALW14",
+290,"DSNY_034","32","HYTE4",,"D03DWB07","D03ALW14",
+291,"DSNY_034","32","SYFL",,"D03DWB07","D03ALW14",
+292,"DSNY_034","32","RHCH2",,"D03DWB07","D03ALW14","UNK002(SEDGE)"
+293,"DSNY_034","32","ASRE7",,"D03DWB07","D03ALW14","no transcription errors found"
+294,"DSNY_034","32","CEFO2",,"D03DWB07","D03ALW14",
+295,"DSNY_034","32","CEER2",,"D03DWB07","D03ALW14",
+296,"DSNY_034","32","SPPR2",,"D03DWB07","D03ALW14",
+297,"DSNY_034","40","PIEL",,"D03DWB07","D03ALW14",
+298,"DSNY_034","40","CYCO",,"D03DWB07","D03ALW14","no transcription errors found"
+299,"DSNY_034","40","DITE2",,"D03DWB07","D03ALW14",
+300,"DSNY_034","40","CAREX","cf. genus","D03DWB07","D03ALW14","Same might be a duplicate from previous 1m2 and 10m2 (UNK002?)"
+301,"DSNY_034","40","PASE5","cf. species","D03DWB07","D03ALW14",
+302,"DSNY_034","41","CAREX","cf. genus","D03DWB07","D03ALW14","Same might be a duplicate from previous 1m2 and 10m2 (UNK002?)"
+303,"DSNY_034","41","RHMA",,"D03DWB07","D03ALW14","no transcription errors found"
+304,"DSNY_034","41","BUAM",,"D03DWB07","D03ALW14",
+305,"DSNY_034","41","HYCI",,"D03DWB07","D03ALW14",
+306,"DSNY_005","31","ANVI2",,"D03DWB07","D03JAK04",
+307,"DSNY_005","31","DIAC2",,"D03DWB07","D03JAK04","no transcription errors found"
+308,"DSNY_005","32","PIEL",,"D03DWB07","D03JAK04","changed taxon ID from DIEL to PIEL"
+309,"DSNY_005","32","ANVI2",,"D03DWB07","D03JAK04",
+310,"DSNY_005","40","SMLA",,"D03DWB07","D03JAK04",
+311,"DSNY_005","40","LEMI",,"D03DWB07","D03JAK04",
+312,"DSNY_005","40","ARBE7",,"D03DWB07","D03JAK04",
+313,"DSNY_005","40","GAEL2",,"D03DWB07","D03JAK04","no transcription errors found"
+314,"DSNY_005","40","RISC","cf. species","D03DWB07","D03JAK04",
+315,"DSNY_005","40","PONA2",,"D03DWB07","D03JAK04",
+316,"DSNY_005","40","UNK22",,"D03DWB07","D03JAK04","no transcription errors found"
+317,"DSNY_005","40","UNK21",,"D03DWB07","D03JAK04","no transcription errors found"
+318,"DSNY_005","40","SYFL",,"D03DWB07","D03JAK04",
+319,"DSNY_005","41","ASRE7",,"D03DWB07","D03JAK04",
+320,"DSNY_005","41","CNURS",,"D03DWB07","D03JAK04",
+321,"DSNY_005","41","LEMI",,"D03DWB07","D03JAK04",
+322,"DSNY_005","41","UNK021",,"D03DWB07","D03JAK04","no transcription errors found"
+323,"DSNY_005","41","PASE5","cf. species","D03DWB07","D03JAK04",
+324,"DSNY_005","41","LYFE",,"D03DWB07","D03JAK04","no transcription errors found"
+325,"DSNY_005","41","PTPY2",,"D03DWB07","D03JAK04",
+326,"DSNY_005","41","PIPA",,"D03DWB07","D03JAK04",
+327,"DSNY_039","31","SERE2",,"D03DWB07","D03ALW14",
+328,"DSNY_039","31","CYCO",,"D03DWB07","D03ALW14",
+329,"DSNY_039","31","ANVI2",,"D03DWB07","D03ALW14","no transcription errors found"
+330,"DSNY_039","31","CEFO2",,"D03DWB07","D03ALW14",
+331,"DSNY_039","31","GACO11",,"D03DWB07","D03ALW14",
+332,"DSNY_039","32","CEER2",,"D03DWB07","D03ALW14",
+333,"DSNY_039","32","ANVI2",,"D03DWB07","D03ALW14",
+334,"DSNY_039","32","CYCO",,"D03DWB07","D03ALW14","no transcription errors found"
+335,"OSBS_050","31","ANVI2",,"D03MLK24","D03JAK04","no transcription errors found"
+336,"OSBS_050","31","UNK315",,"D03MLK24","D03JAK04",
+337,"OSBS_050","32","ANVI2",,"D03MLK24","D03JAK04","changed subplotID from 31 to 32"
+338,"OSBS_050","32","UNK315",,"D03MLK24","D03JAK04","changed subplotID from 31 to 32"
+339,"OSBS_050","32","QUVI","cf. species","D03MLK24","D03JAK04","changed subplotID from 31 to 32"
+340,"OSBS_050","40","DISP2",,"D03MLK24","D03JAK04",
+341,"OSBS_050","40","HYTE4",,"D03MLK24","D03JAK04","no transcription errors found"
+342,"OSBS_050","40","UNK315",,"D03MLK24","D03JAK04",
+343,"OSBS_050","40","UNK313",,"D03MLK24","D03JAK04",
+344,"OSBS_050","40","ANCA4",,"D03MLK24","D03JAK04",
+345,"OSBS_050","41","CACO37","cf. genus","D03MLK24","D03JAK04",
+346,"OSBS_050","41","LEMI",,"D03MLK24","D03JAK04",
+347,"OSBS_050","41","PITA",,"D03MLK24","D03JAK04",
+348,"OSBS_050","41","ANVI2",,"D03MLK24","D03JAK04",
+349,"OSBS_050","41","OPHU",,"D03MLK24","D03JAK04","no transcription errors found"
+350,"OSBS_050","41","HECO3",,"D03MLK24","D03JAK04",
+351,"OSBS_050","41","UNK315",,"D03MLK24","D03JAK04",
+352,"DSNY_021","31","EUCO7",,"D03MLK24","D03JAK04",
+353,"DSNY_039","32","EUCO7",,"D03DWB07","D03ALW14",
+354,"DSNY_039","40","ANVI2",,"D03DWB07","D03ALW14",
+355,"DSNY_039","40","RHCH2",,"D03DWB07","D03ALW14","UNK002(SEDGE)"
+356,"DSNY_039","40","BUCI",,"D03DWB07","D03ALW14","no transcription errors found"
+357,"DSNY_039","41","HYTE4",,"D03DWB07","D03ALW14",
+358,"DSNY_039","41","LACA",,"D03DWB07","D03ALW14",
+359,"DSNY_039","41","GACO11",,"D03DWB07","D03ALW14",
+360,"DSNY_039","41","UNK010",,"D03DWB07","D03ALW14","UNK010(RED STEM)"
+370,"DSNY_074","40","RUAR2",,"D03DWB07","D03ALW14","no transcription errors found"
+371,"DSNY_074","40","SERE2",,"D03DWB07","D03ALW14","no transcription errors found"
+372,"DSNY_074","40","EUCO7",,"D03DWB07","D03ALW14",
+373,"DSNY_074","41","CRLA7",,"D03DWB07","D03ALW14",
+374,"DSNY_074","41","XYBR",,"D03DWB07","D03ALW14","no transcription errors found"
+375,"DSNY_037","31","CHNI2",,"D03MLK24","D03JAK04","no transcription errors found"
+376,"DSNY_037","32","BUAM",,"D03MLK24","D03JAK04","UNK15(Heli)"
+377,"DSNY_037","32","ANGL10",,"D03MLK24","D03JAK04","no transcription errors found"
+378,"DSNY_037","32","HYHY",,"D03MLK24","D03JAK04",
+379,"DSNY_037","40","ASRE7",,"D03MLK24","D03JAK04",
+380,"DSNY_037","40","BUCI",,"D03MLK24","D03JAK04","no transcription errors found"
+381,"DSNY_037","40","HYTE4",,"D03MLK24","D03JAK04",
+382,"DSNY_037","41","GAEL2",,"D03MLK24","D03JAK04","no transcription errors found"
+383,"DSNY_037","41","UNK019",,"D03MLK24","D03JAK04",
+384,"DSNY_037","41","DAAE",,"D03MLK24","D03JAK04",
+385,"DSNY_016","31","QUGE2",,"D03MLK24","D03JAK04",
+386,"DSNY_016","31","ASRE7",,"D03MLK24","D03JAK04","no transcription errors found"
+387,"DSNY_016","31","UNK004",,"D03MLK24","D03JAK04","no transcription errors found"
+388,"DSNY_016","32","QUGE2",,"D03MLK24","D03JAK04",
+389,"DSNY_016","32","ASRE7",,"D03MLK24","D03JAK04",
+390,"DSNY_016","32","VIRO3",,"D03MLK24","D03JAK04",
+391,"DSNY_016","32","SERE2",,"D03MLK24","D03JAK04",
+392,"DSNY_016","32","OXCO",,"D03MLK24","D03JAK04","no transcription errors found"
+393,"DSNY_016","32","SMSM",,"D03MLK24","D03JAK04",
+394,"DSNY_016","32","CHNI2",,"D03MLK24","D03JAK04",
+395,"DSNY_016","40","ANVI2",,"D03MLK24","D03JAK04","no transcription errors found"
+396,"DSNY_016","40","UNK019",,"D03MLK24","D03JAK04",
+397,"DSNY_016","41","UNK018",,"D03MLK24","D03JAK04",
+398,"DSNY_016","41","EUCO7",,"D03MLK24","D03JAK04",
+399,"DSNY_025","31","PIEL",,"D03DWB07","D03ALW14",
+400,"DSNY_025","31","EUCA7",,"D03DWB07","D03ALW14",
+401,"DSNY_025","31","ASRE7",,"D03DWB07","D03ALW14",
+402,"DSNY_025","31","BUAM","cf. genus","D03DWB07","D03ALW14","no transcription errors found"
+404,"OSBS_003","41","VIRO3",,"D03MLK24","D03DWB07",
+405,"OSBS_023","41",,,"D03MLK24","D03JAK04","no new plants; no transcription errors found"
+406,"OSBS_016","32","LYMA2",,"D03MLK24","D03DWB07",
+407,"OSBS_014","31","UNK338",,"D03DWB07","D03JAK04","no transcription errors"
+408,"OSBS_014","31","CRAR2",,"D03DWB07","D03JAK04","no transcription errors"
+409,"OSBS_014","31","HECA4",,"D03DWB07","D03JAK04","no transcription errors"
+410,"OSBS_014","31","SMPU",,"D03DWB07","D03JAK04","no transcription errors"
+411,"OSBS_014","31","SOOD",,"D03DWB07","D03JAK04","no transcription errors"
+412,"OSBS_014","31","UNK339",,"D03DWB07","D03JAK04","no transcription errors"
+413,"OSBS_014","31","TIUS",,"D03DWB07","D03JAK04","no transcription errors"
+414,"OSBS_014","32","SOSE5",,"D03DWB07","D03JAK04","no transcription errors"
+415,"OSBS_014","32","RHRE",,"D03DWB07","D03JAK04","no transcription errors"
+416,"OSBS_014","32","UNK338",,"D03DWB07","D03JAK04","no transcription errors"
+417,"OSBS_014","32","UNK332",,"D03DWB07","D03JAK04","no transcription errors"
+418,"OSBS_014","32","TIRE",,"D03DWB07","D03JAK04","no transcription errors"
+419,"OSBS_014","32","ARFL2",,"D03DWB07","D03JAK04","no transcription errors"
+420,"OSBS_014","32","BESU",,"D03DWB07","D03JAK04","no transcription errors"
+421,"OSBS_014","40","QUGE2",,"D03DWB07","D03JAK04","no transcription errors"
+422,"OSBS_014","40","TEFL",,"D03DWB07","D03JAK04","no transcription errors"
+423,"OSBS_014","40","CRAR2",,"D03DWB07","D03JAK04","no transcription errors"
+424,"OSBS_014","40","UNK340",,"D03DWB07","D03JAK04","no transcription errors"
+425,"OSBS_014","40","HIGR",,"D03DWB07","D03JAK04","no transcription errors"
+426,"OSBS_014","40","STBI2",,"D03DWB07","D03JAK04","no transcription errors"
+427,"OSBS_014","41","BESU",,"D03DWB07","D03JAK04","no transcription errors"
+428,"OSBS_014","41","UNK343",,"D03DWB07","D03JAK04","no transcription errors"
+429,"OSBS_014","41","CLMA4",,"D03DWB07","D03JAK04","no transcription errors"
+430,"OSBS_014","41","SOSE5",,"D03DWB07","D03JAK04","no transcription errors"
+431,"OSBS_014","41","SOOD",,"D03DWB07","D03JAK04","no transcription errors"
+432,"OSBS_014","41","ANGY2",,"D03DWB07","D03JAK04","no transcription errors"
+433,"OSBS_014","41","HECA4",,"D03DWB07","D03JAK04","no transcription errors"
+434,"OSBS_051","31","PITA",,"D03MLK24","D03ALW14","no transcription errors found"
+435,"OSBS_051","31","UNK315",,"D03MLK24","D03ALW14","no transcription errors found"
+436,"OSBS_051","31","EUMO4",,"D03MLK24","D03ALW14","UNK324; no transcription errors found"
+437,"OSBS_051","32","EUCA26",,"D03MLK24","D03ALW14","no transcription errors found"
+438,"OSBS_051","32","UNK315",,"D03MLK24","D03ALW14","no transcription errors found"
+439,"OSBS_051","32","UNK325",,"D03MLK24","D03ALW14","no transcription errors found"
+440,"OSBS_051","40","UNK326",,"D03MLK24","D03ALW14","no transcription errors found"
+441,"OSBS_051","40","PIPA2",,"D03MLK24","D03ALW14","no transcription errors found"
+442,"OSBS_051","40","PIEL",,"D03MLK24","D03ALW14","no transcription errors found"
+443,"OSBS_051","41","QULA2",,"D03MLK24","D03ALW14","no transcription errors found"
+444,"OSBS_051","41","VAAR",,"D03MLK24","D03ALW14","no transcription errors found"
+445,"OSBS_051","41","EUMO4",,"D03MLK24","D03ALW14","UNK324; no transcription errors found"
+446,"OSBS_051","41","OPHU",,"D03MLK24","D03ALW14","no transcription errors found"
+447,"DSNY_036","31","POHI3",,"D03ALW14","D03KCM04","no transcription errors"
+448,"DSNY_036","31","PAVI2",,"D03ALW14","D03KCM04","no transcription errors"
+449,"DSNY_036","31","RUAR2",,"D03ALW14","D03KCM04","no transcription errors"
+450,"DSNY_036","31","WOVI",,"D03ALW14","D03KCM04","no transcription errors"
+451,"DSNY_036","32","ANVI2",,"D03ALW14","D03KCM04","no transcription errors"
+452,"DSNY_036","32","SOAL6","cf. species","D03ALW14","D03KCM04","no transcription errors"
+453,"DSNY_036","32","EUCA26",,"D03ALW14","D03KCM04","no transcription errors"
+454,"DSNY_036","32","MIQU2",,"D03ALW14","D03KCM04","no transcription errors"
+455,"DSNY_036","32","SAGI",,"D03ALW14","D03KCM04","no transcription errors"
+456,"DSNY_036","32","ELEL3",,"D03ALW14","D03KCM04","no transcription errors"
+457,"DSNY_036","32","DIEN",,"D03ALW14","D03KCM04","no transcription errors"
+458,"DSNY_036","40","ARSE7",,"D03ALW14","D03KCM04","no transcription errors"
+459,"DSNY_036","40","SAGI",,"D03ALW14","D03KCM04","no transcription errors"
+460,"DSNY_036","40","UNK029",,"D03ALW14","D03KCM04","no transcription errors"
+461,"DSNY_036","40","ARBE7",,"D03ALW14","D03KCM04","no transcription errors"
+462,"DSNY_036","40","HYHY",,"D03ALW14","D03KCM04","no transcription errors"
+463,"DSNY_036","40","ELEL3",,"D03ALW14","D03KCM04","no transcription errors"
+464,"DSNY_036","40","EUMO4",,"D03ALW14","D03KCM04","no transcription errors"
+465,"DSNY_036","41","EUMO4",,"D03ALW14","D03KCM04","no transcription errors"
+466,"DSNY_036","41","CYPO",,"D03ALW14","D03KCM04","no transcription errors"
+467,"DSNY_036","41","LULA6",,"D03ALW14","D03KCM04","no transcription errors"
+468,"DSNY_036","41","UNK029",,"D03ALW14","D03KCM04","no transcription errors"
+469,"DSNY_022","31","UNK1006",,"D03MLK24","D03JAK04","no transcription errors"
+470,"DSNY_022","31","LYAP3",,"D03MLK24","D03JAK04","no transcription errors"
+471,"DSNY_022","31","ELEL3",,"D03MLK24","D03JAK04","no transcription errors"
+472,"DSNY_022","31","LYFE",,"D03MLK24","D03JAK04","no transcription errors"
+473,"DSNY_022","31","SMAU",,"D03MLK24","D03JAK04","no transcription errors"
+474,"DSNY_022","31","TESP","cf. species","D03MLK24","D03JAK04","no transcription errors"
+475,"DSNY_022","32","HYTE4",,"D03MLK24","D03JAK04","turtle bones in plot, no transcription errors"
+476,"DSNY_022","32","CAOR10",,"D03MLK24","D03JAK04","no transcription errors"
+477,"DSNY_022","32","XYBR",,"D03MLK24","D03JAK04","no transcription errors"
+478,"DSNY_022","32","CARPH","cf. species","D03MLK24","D03JAK04","no transcription errors"
+479,"DSNY_022","32","GAVO",,"D03MLK24","D03JAK04","no transcription errors"
+480,"DSNY_022","40","SOSE5",,"D03MLK24","D03JAK04","no transcription errors"
+481,"DSNY_022","40","PIPA2",,"D03MLK24","D03JAK04","no transcription errors"
+482,"DSNY_022","40","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+483,"DSNY_022","40","CHFL2",,"D03MLK24","D03JAK04","no transcription errors"
+484,"DSNY_022","40","GAVO",,"D03MLK24","D03JAK04","no transcription errors"
+485,"DSNY_022","40","PTPY2",,"D03MLK24","D03JAK04","no transcription errors"
+486,"DSNY_022","40","VAMY",,"D03MLK24","D03JAK04","no transcription errors"
+487,"DSNY_022","41","CARPH","cf. species","D03MLK24","D03JAK04","no transcription errors"
+488,"DSNY_022","41","SMAU",,"D03MLK24","D03JAK04","no transcription errors"
+489,"DSNY_022","41","CAOR10","cf. species","D03MLK24","D03JAK04","no transcription errors"
+490,"DSNY_022","41","VAMY",,"D03MLK24","D03JAK04","no transcription errors"
+491,"DSNY_022","41","CYPER",,"D03MLK24","D03JAK04","no transcription errors"
+492,"DSNY_022","41","PIPA2",,"D03MLK24","D03JAK04","no transcription errors"
+493,"DSNY_038","31","RHCH2",,"D03DWB07","D03SAB14","no transcription errors"
+494,"DSNY_038","31","UNK029",,"D03DWB07","D03SAB14","no transcription errors"
+495,"DSNY_038","31","EUMO4",,"D03DWB07","D03SAB14","no transcription errors"
+496,"DSNY_038","31","DIDI6",,"D03DWB07","D03SAB14","no transcription errors"
+497,"DSNY_038","31","HYMU2",,"D03DWB07","D03SAB14","no transcription errors"
+498,"DSNY_038","32","POPR4",,"D03DWB07","D03SAB14","no transcription errors"
+499,"DSNY_038","32","XYBR",,"D03DWB07","D03SAB14","no transcription errors"
+500,"DSNY_038","32","CYCO",,"D03DWB07","D03SAB14","no transcription errors"
+501,"DSNY_038","32","RHCH2",,"D03DWB07","D03SAB14","no transcription errors"
+502,"DSNY_038","40","ANVI2",,"D03DWB07","D03SAB14","no transcription errors"
+503,"DSNY_038","40","CYSU",,"D03DWB07","D03SAB14","no transcription errors"
+504,"DSNY_038","41","QUGE2",,"D03DWB07","D03SAB14","no transcription errors"
+505,"DSNY_038","41","RHCH2",,"D03DWB07","D03SAB14","no transcription errors"
+506,"DSNY_038","41","ELTO2","cf. species","D03DWB07","D03SAB14","no transcription errors"
+507,"DSNY_038","41","HYMU2",,"D03DWB07","D03SAB14","no transcription errors"
+508,"DSNY_025","32","PIEL",,"D03DWB07","D03ALW14",
+509,"DSNY_025","32","CRLA7",,"D03DWB07","D03ALW14",
+510,"DSNY_025","32","DIOV","cf. species","D03DWB07","D03ALW14","no transcription errors found"
+511,"DSNY_025","40","CYCO",,"D03DWB07","D03ALW14",
+512,"DSNY_025","40","ASRE7",,"D03DWB07","D03ALW14",
+513,"DSNY_025","41","PIEL",,"D03DWB07","D03ALW14",
+514,"DSNY_025","41","DIOV","cf. species","D03DWB07","D03ALW14","no transcription errors found"
+515,"DSNY_025","41","PTPY2",,"D03DWB07","D03ALW14",
+516,"DSNY_025","41","ULAL",,"D03DWB07","D03ALW14",
+517,"DSNY_025","41","UNK004",,"D03DWB07","D03ALW14","no transcription errors found"
+518,"DSNY_025","41","GACO11",,"D03DWB07","D03ALW14",
+519,"OSBS_005","31","PRCA",,"D03DWB07","D03ALW14","no transcription errors"
+520,"OSBS_005","31","RUAR2",,"D03DWB07","D03ALW14","no transcription errors"
+521,"OSBS_005","31","PAHE2",,"D03DWB07","D03ALW14","no transcription errors"
+522,"OSBS_005","31","PEBO",,"D03DWB07","D03ALW14","no transcription errors"
+523,"OSBS_005","31","PEPA37",,"D03DWB07","D03ALW14","no transcription errors"
+524,"OSBS_005","31","SMAR",,"D03DWB07","D03ALW14","no transcription errors"
+525,"OSBS_005","31","UNK330",,"D03DWB07","D03ALW14","UNK330(ROUND BLADED GRASS), no transcription errors"
+526,"OSBS_005","31","ILGL",,"D03DWB07","D03ALW14","no transcription errors"
+527,"OSBS_005","31","TIUS",,"D03DWB07","D03ALW14","no transcription errors"
+528,"OSBS_005","32","ACRUT",,"D03DWB07","D03ALW14","no transcription errors"
+529,"OSBS_005","32","WOVI",,"D03DWB07","D03ALW14","no transcription errors"
+530,"OSBS_005","32","WOAR",,"D03DWB07","D03ALW14","no transcription errors"
+531,"OSBS_005","32","VAST",,"D03DWB07","D03ALW14","no transcription errors"
+532,"OSBS_005","32","RHMA",,"D03DWB07","D03ALW14","no transcription errors"
+533,"OSBS_005","32","QUNI",,"D03DWB07","D03ALW14","no transcription errors"
+534,"OSBS_005","32","PRCA",,"D03DWB07","D03ALW14","no transcription errors"
+535,"OSBS_005","32","ILMY",,"D03DWB07","D03ALW14","no transcription errors"
+536,"OSBS_005","32","UNK328",,"D03DWB07","D03ALW14","no transcription errors"
+537,"OSBS_005","32","TIUS",,"D03DWB07","D03ALW14","no transcription errors"
+538,"OSBS_005","40","UNK330",,"D03DWB07","D03ALW14","UNK330 (ROUND BLADED GRASS), no transcription errors"
+539,"OSBS_005","41","OSCI",,"D03DWB07","D03ALW14","no transcription errors"
+540,"OSBS_005","41","VAST",,"D03DWB07","D03ALW14","no transcription errors"
+541,"OSBS_005","41","QUNI",,"D03DWB07","D03ALW14","no transcription errors"
+542,"OSBS_005","41","PEPA37",,"D03DWB07","D03ALW14","no transcription errors"
+543,"OSBS_005","41","GOLA",,"D03DWB07","D03ALW14","no transcription errors"
+544,"OSBS_005","41","ILMY",,"D03DWB07","D03ALW14","no transcription errors"
+545,"OSBS_005","41","WOAR",,"D03DWB07","D03ALW14","no transcription errors"
+546,"OSBS_008","31","ANVI2",,"D03MLK24","D03JAK04","no transcription errors"
+547,"OSBS_008","31","DICO2",,"D03MLK24","D03JAK04","no transcription errors"
+548,"OSBS_008","31","CNST",,"D03MLK24","D03JAK04","no transcription errors"
+549,"OSBS_008","31","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+550,"OSBS_008","31","PHAR14",,"D03MLK24","D03JAK04","no transcription errors"
+551,"OSBS_008","31","LIATR","cf. species","D03MLK24","D03JAK04","no transcription errors"
+552,"OSBS_008","32","TRUR",,"D03MLK24","D03JAK04","no transcription errors"
+553,"OSBS_008","32","RHCI3","cf. species","D03MLK24","D03JAK04","no transcription errors"
+554,"OSBS_008","32","UNK351",,"D03MLK24","D03JAK04","no transcription errors"
+555,"OSBS_008","32","DICO2",,"D03MLK24","D03JAK04","no transcription errors"
+556,"OSBS_008","32","ANGY2",,"D03MLK24","D03JAK04","no transcription errors"
+557,"OSBS_008","32","LIMI5",,"D03MLK24","D03JAK04","no transcription errors"
+558,"OSBS_008","32","CACO37","cf. species","D03MLK24","D03JAK04","no transcription errors"
+559,"OSBS_008","32","VAMY3",,"D03MLK24","D03JAK04","no transcription errors"
+560,"OSBS_008","32","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+561,"OSBS_008","32","OPHU",,"D03MLK24","D03JAK04","no transcription errors"
+562,"OSBS_008","32","GARE2",,"D03MLK24","D03JAK04","no transcription errors"
+563,"OSBS_008","32","ASAM",,"D03MLK24","D03JAK04","no transcription errors"
+564,"OSBS_008","32","UNK347",,"D03MLK24","D03JAK04","no transcription errors"
+565,"OSBS_008","32","UNK352",,"D03MLK24","D03JAK04","no transcription errors"
+566,"OSBS_008","32","LIGR10","cf. species","D03MLK24","D03JAK04","no transcription errors"
+567,"OSBS_008","32","CRRO5",,"D03MLK24","D03JAK04","no transcription errors"
+568,"OSBS_008","32","ANVI2",,"D03MLK24","D03JAK04","no transcription errors"
+569,"OSBS_008","40","UNK355",,"D03MLK24","D03JAK04","no transcription errors"
+570,"OSBS_008","40","QUGE2",,"D03MLK24","D03JAK04","no transcription errors"
+571,"OSBS_008","40","PHAR14",,"D03MLK24","D03JAK04","no transcription errors"
+572,"OSBS_008","40","LIMI5",,"D03MLK24","D03JAK04","no transcription errors"
+573,"OSBS_008","40","CRRO5",,"D03MLK24","D03JAK04","no transcription errors"
+574,"OSBS_008","40","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+575,"OSBS_008","40","QUHE2",,"D03MLK24","D03JAK04","no transcription errors"
+576,"OSBS_008","40","DICO2",,"D03MLK24","D03JAK04","no transcription errors"
+577,"OSBS_008","41","HOPR",,"D03MLK24","D03JAK04","no transcription errors"
+578,"OSBS_008","41","BAAN3",,"D03MLK24","D03JAK04","no transcription errors"
+579,"OSBS_008","41","ANGY2",,"D03MLK24","D03JAK04","no transcription errors"
+580,"OSBS_008","41","ASHU3",,"D03MLK24","D03JAK04","no transcription errors"
+581,"OSBS_008","41","HYHY",,"D03MLK24","D03JAK04","no transcription errors"
+582,"OSBS_008","41","DICO2",,"D03MLK24","D03JAK04","no transcription errors"
+583,"OSBS_008","41","ARBE7",,"D03MLK24","D03JAK04","no transcription errors"
+584,"OSBS_008","41","CNST",,"D03MLK24","D03JAK04","no transcription errors"
+585,"OSBS_007","31","UNK355",,"D03DWB07","D03KAL07","no transcription error"
+586,"OSBS_007","31","TRUR",,"D03DWB07","D03KAL07","no transcription error"
+587,"OSBS_007","31","SMSM",,"D03DWB07","D03KAL07","no transcription error"
+588,"OSBS_007","31","CNURS",,"D03DWB07","D03KAL07","no transcription error"
+589,"OSBS_007","31","BAAN3",,"D03DWB07","D03KAL07","no transcription error"
+590,"OSBS_007","32","POPR4",,"D03DWB07","D03KAL07","no transcription error"
+591,"OSBS_007","32","ANVI2",,"D03DWB07","D03KAL07","no transcription error"
+592,"OSBS_007","32","UNK349",,"D03DWB07","D03KAL07","no transcription error"
+593,"OSBS_007","32","DAPI2",,"D03DWB07","D03KAL07","no transcription error"
+594,"OSBS_007","32","PICL",,"D03DWB07","D03KAL07","no transcription error"
+595,"OSBS_007","32","LIATR","cf. species","D03DWB07","D03KAL07","no transcription error"
+596,"OSBS_007","32","TRUR",,"D03DWB07","D03KAL07","no transcription error"
+597,"OSBS_007","32","QUNI",,"D03DWB07","D03KAL07","no transcription error"
+598,"OSBS_007","32","UNK357",,"D03DWB07","D03KAL07","no transcription error"
+599,"OSBS_007","32","RHCI3",,"D03DWB07","D03KAL07","no transcription error"
+600,"OSBS_007","32","UNK350",,"D03DWB07","D03KAL07","no transcription error"
+601,"OSBS_007","32","QUGE2",,"D03DWB07","D03KAL07","no transcription error"
+602,"OSBS_007","40","QUIN",,"D03DWB07","D03KAL07","no transcription error"
+603,"OSBS_007","40","SMAU",,"D03DWB07","D03KAL07","no transcription error"
+604,"OSBS_007","40","STSY",,"D03DWB07","D03KAL07","no transcription error"
+605,"OSBS_007","40","HECO3",,"D03DWB07","D03KAL07","no transcription error"
+606,"OSBS_007","40","RHCO",,"D03DWB07","D03KAL07","no transcription error"
+607,"OSBS_007","40","DAPI2",,"D03DWB07","D03KAL07","no transcription error"
+608,"OSBS_007","40","SERE2",,"D03DWB07","D03KAL07","no transcription error"
+609,"OSBS_007","40","ANVI2",,"D03DWB07","D03KAL07","no transcription error"
+610,"OSBS_007","40","DIAC2",,"D03DWB07","D03KAL07","no transcription error"
+611,"OSBS_007","41","LIMI5",,"D03DWB07","D03KAL07","no transcription error"
+612,"OSBS_007","41","QUHE2",,"D03DWB07","D03KAL07","no transcription error"
+613,"OSBS_007","41","CNST",,"D03DWB07","D03KAL07","no transcription error"
+614,"OSBS_007","41","PIPA2",,"D03DWB07","D03KAL07","no transcription error"
+615,"OSBS_007","41","LEHI2",,"D03DWB07","D03KAL07","no transcription error"
+616,"OSBS_007","41","CACO37",,"D03DWB07","D03KAL07","no transcription error"
+617,"OSBS_007","41","LEMI",,"D03DWB07","D03KAL07","no transcription error"
+618,"OSBS_007","41","SOOD",,"D03DWB07","D03KAL07","no transcription error"
+619,"OSBS_007","41","ANCA4",,"D03DWB07","D03KAL07","no transcription error"
+620,"OSBS_010","31","PICL",,"D03DWB07","D03KAL07","no transcription errors"
+621,"OSBS_010","31","TIUS",,"D03DWB07","D03KAL07","no transcription errors"
+622,"OSBS_010","31","UNK358",,"D03DWB07","D03KAL07","no transcription errors"
+623,"OSBS_010","31","SMAU",,"D03DWB07","D03KAL07","no transcription errors"
+624,"OSBS_010","31","PLPO2",,"D03DWB07","D03KAL07","no transcription errors"
+625,"OSBS_010","31","ASIN12",,"D03DWB07","D03KAL07","no transcription errors"
+626,"OSBS_010","31","CEER3",,"D03DWB07","D03KAL07","no transcription errors"
+627,"OSBS_010","32","PIPA2",,"D03DWB07","D03KAL07","no transcription errors"
+628,"OSBS_010","32","SERE2",,"D03DWB07","D03KAL07","no transcription errors"
+629,"OSBS_010","32","SMSM",,"D03DWB07","D03KAL07","no transcription errors"
+630,"OSBS_010","32","UNK358",,"D03DWB07","D03KAL07","no transcription errors"
+631,"OSBS_010","32","SMAU",,"D03DWB07","D03KAL07","no transcription errors"
+632,"OSBS_010","40","PLPO2",,"D03DWB07","D03KAL07","no transcription errors"
+633,"OSBS_010","40","ASIN12",,"D03DWB07","D03KAL07","no transcription errors"
+634,"OSBS_010","40","DIAC2",,"D03DWB07","D03KAL07","no transcription errors"
+635,"OSBS_010","40","HYHY",,"D03DWB07","D03KAL07","no transcription errors"
+636,"OSBS_010","41","TIRE",,"D03DWB07","D03KAL07","no transcription errors"
+637,"OSBS_010","41","PLPO2",,"D03DWB07","D03KAL07","no transcription errors"
+638,"OSBS_010","41","TIUS",,"D03DWB07","D03KAL07","no transcription errors"
+639,"OSBS_010","41","ASIN12",,"D03DWB07","D03KAL07","no transcription errors"
+640,"OSBS_010","41","SMSM",,"D03DWB07","D03KAL07","no transcription errors"
+641,"OSBS_010","41","VAST",,"D03DWB07","D03KAL07","no transcription errors"
+642,"OSBS_010","41","DIAC2",,"D03DWB07","D03KAL07","no transcription errors"
+643,"DSNY_002","31","VAMY3",,"D03ALW14","D03KCM04","no transcription errors"
+644,"DSNY_002","31","RHPL3",,"D03ALW14","D03KCM04","no transcription errors"
+645,"DSNY_002","32","RHNU2",,"D03ALW14","D03KCM04","no transcription errors"
+646,"DSNY_002","32","HYHY",,"D03ALW14","D03KCM04","no transcription errors"
+647,"DSNY_002","40","QUMI2",,"D03ALW14","D03KCM04","no transcription errors"
+648,"DSNY_002","40","PTPY2",,"D03ALW14","D03KCM04","no transcription errors"
+649,"DSNY_002","40","ASRE7",,"D03ALW14","D03KCM04","no transcription errors"
+650,"DSNY_002","40","SMAU",,"D03ALW14","D03KCM04","no transcription errors"
+651,"DSNY_002","40","ANCA4","cf. species","D03ALW14","D03KCM04","no transcription errors"
+652,"DSNY_002","40","SMSM",,"D03ALW14","D03KCM04","no transcription errors"
+653,"DSNY_002","40","QUNI",,"D03ALW14","D03KCM04","no transcription errors"
+654,"DSNY_002","40","UNK010",,"D03ALW14","D03KCM04","no transcription errors"
+655,"DSNY_002","41","SMAU",,"D03ALW14","D03KCM04","no transcription errors"
+656,"DSNY_008","31","SCSC",,"D03ALW14","D03KCM04","no transcription error"
+657,"DSNY_008","31","XYCA",,"D03ALW14","D03KCM04","no transcription error"
+658,"DSNY_008","31","GAEL2",,"D03ALW14","D03KCM04","no transcription error"
+659,"DSNY_008","31","HYCR3",,"D03ALW14","D03KCM04","no transcription error 
+no transcription error"
+660,"DSNY_008","31","RHCH2",,"D03ALW14","D03KCM04","no transcription error"
+661,"DSNY_008","31","PIGR4",,"D03ALW14","D03KCM04","no transcription error"
+662,"DSNY_008","32","POSE7",,"D03ALW14","D03KCM04","no transcription error"
+663,"DSNY_008","32","ASRE7",,"D03ALW14","D03KCM04","no transcription error"
+664,"DSNY_008","32","SCSC",,"D03ALW14","D03KCM04","no transcription error"
+665,"DSNY_008","32","POLU",,"D03ALW14","D03KCM04","no transcription error"
+666,"DSNY_008","32","HYHY",,"D03ALW14","D03KCM04","no transcription error"
+667,"DSNY_008","32","MIQU2",,"D03ALW14","D03KCM04","no transcription error"
+668,"DSNY_008","32","OLUN",,"D03ALW14","D03KCM04","no transcription error"
+669,"DSNY_008","32","VAMY3",,"D03ALW14","D03KCM04","no transcription error"
+670,"DSNY_008","32","ELEL3",,"D03ALW14","D03KCM04","no transcription error"
+671,"DSNY_008","40","LYFE",,"D03ALW14","D03KCM04","no transcription error"
+672,"DSNY_008","40","ELEL3",,"D03ALW14","D03KCM04","no transcription error"
+673,"DSNY_008","40","PIEL",,"D03ALW14","D03KCM04","no transcription error"
+674,"DSNY_008","40","LEDI",,"D03ALW14","D03KCM04","no transcription error"
+675,"DSNY_008","40","RHNU2",,"D03ALW14","D03KCM04","no transcription error"
+676,"DSNY_008","41","PORU5",,"D03ALW14","D03KCM04","no transcription error"
+677,"DSNY_008","41","CAOD3",,"D03ALW14","D03KCM04","no transcription error"
+678,"DSNY_008","41","EURO4",,"D03ALW14","D03KCM04","no transcription error"
+679,"DSNY_019","31","PTPY2",,"D03MLK24","D03JAK04","no transcription error"
+680,"DSNY_019","31","DIER4",,"D03MLK24","D03JAK04","no transcription error"
+681,"DSNY_019","31","ASRE7",,"D03MLK24","D03JAK04","no transcription error"
+682,"DSNY_019","31","OPHU",,"D03MLK24","D03JAK04","no transcription error"
+683,"DSNY_019","31","POLU",,"D03MLK24","D03JAK04","no transcription error"
+684,"DSNY_019","31","XYCA",,"D03MLK24","D03JAK04","no transcription error"
+685,"DSNY_019","31","HIGR3",,"D03MLK24","D03JAK04","no transcription error"
+686,"DSNY_019","31","UNK1041",,"D03MLK24","D03JAK04","no transcription error"
+687,"DSNY_019","32","LIMI5",,"D03MLK24","D03JAK04","no transcription error"
+688,"DSNY_019","32","ASRE7",,"D03MLK24","D03JAK04","no transcription error"
+689,"DSNY_019","32","UNK1021",,"D03MLK24","D03JAK04","no transcription error"
+690,"DSNY_019","32","QUMI2",,"D03MLK24","D03JAK04","no transcription error"
+691,"DSNY_019","32","ANVI2",,"D03MLK24","D03JAK04","no transcription error"
+692,"DSNY_019","32","SMAU",,"D03MLK24","D03JAK04","no transcription error"
+693,"DSNY_019","32","PONA2",,"D03MLK24","D03JAK04","no transcription error"
+694,"DSNY_019","32","UNK1040",,"D03MLK24","D03JAK04","no transcription error"
+695,"DSNY_019","32","DIAC",,"D03MLK24","D03JAK04","no transcription error"
+696,"DSNY_019","32","GRHI2",,"D03MLK24","D03JAK04","no transcription error"
+697,"DSNY_019","32","DIDIE",,"D03MLK24","D03JAK04","no transcription error"
+698,"DSNY_019","32","HYCI",,"D03MLK24","D03JAK04","no transcription error"
+699,"DSNY_019","32","POSE7",,"D03MLK24","D03JAK04","no transcription error"
+700,"DSNY_019","40","PTPY",,"D03MLK24","D03JAK04","no transcription error"
+701,"DSNY_019","40","UNK1041",,"D03MLK24","D03JAK04","no transcription error"
+702,"DSNY_019","40","DISP2",,"D03MLK24","D03JAK04","no transcription error"
+703,"DSNY_019","40","POSE5",,"D03MLK24","D03JAK04","no transcription error"
+704,"DSNY_019","40","GRHI2",,"D03MLK24","D03JAK04","no transcription error"
+705,"DSNY_019","40","QUCH",,"D03MLK24","D03JAK04","no transcription error"
+706,"DSNY_019","40","ANVI2",,"D03MLK24","D03JAK04","no transcription error"
+707,"DSNY_019","40","UNK1037",,"D03MLK24","D03JAK04","no transcription error"
+708,"DSNY_019","40","CRPU5",,"D03MLK24","D03JAK04","no transcription error"
+709,"DSNY_019","40","UNK1038",,"D03MLK24","D03JAK04","no transcription error"
+710,"DSNY_019","40","XYCA",,"D03MLK24","D03JAK04","no transcription error"
+711,"DSNY_019","40","UNK1002",,"D03MLK24","D03JAK04","no transcription error"
+712,"DSNY_019","40","LAAN",,"D03MLK24","D03JAK04","no transcription error"
+713,"DSNY_019","40","ASRE7",,"D03MLK24","D03JAK04","no transcription error"
+714,"DSNY_019","41","POSE5",,"D03ALW14","D03KCM04","no transcription error"
+715,"DSNY_019","41","PONA2",,"D03ALW14","D03KCM04","no transcription error"
+716,"DSNY_019","41","XYCA",,"D03ALW14","D03KCM04","no transcription error"
+717,"DSNY_019","41","SMSM",,"D03ALW14","D03KCM04","no transcription error"
+718,"DSNY_003","31","VAMY3",,"D03ALW14","D03SAB14","no transcription errors"
+719,"DSNY_003","31","EURO4",,"D03ALW14","D03SAB14","no transcription errors"
+720,"DSNY_003","31","HYHY",,"D03ALW14","D03SAB14","no transcription errors"
+721,"DSNY_003","31","SOOD","cf. species","D03ALW14","D03SAB14","no transcription errors"
+722,"DSNY_003","31","XYCA",,"D03ALW14","D03SAB14","no transcription errors"
+723,"DSNY_003","31","PASE5",,"D03ALW14","D03SAB14","no transcription errors"
+724,"DSNY_003","31","OLDEN","cf. species","D03ALW14","D03SAB14","no transcription errors"
+725,"DSNY_003","31","LULA6",,"D03ALW14","D03SAB14","no transcription errors"
+726,"DSNY_003","31","XYBR",,"D03ALW14","D03SAB14","no transcription errors"
+727,"DSNY_003","31","PIGR4",,"D03ALW14","D03SAB14","no transcription errors"
+728,"DSNY_003","31","RHCH2",,"D03ALW14","D03SAB14","no transcription errors"
+729,"DSNY_003","32","VAMY3",,"D03ALW14","D03SAB14","no transcription errors"
+730,"DSNY_003","32","QUGE2",,"D03ALW14","D03SAB14","no transcription errors"
+731,"DSNY_003","32","PONA2",,"D03ALW14","D03SAB14","no transcription errors"
+732,"DSNY_003","32","CHNI2",,"D03ALW14","D03SAB14","no transcription errors"
+733,"DSNY_003","32","PTPY2",,"D03ALW14","D03SAB14","no transcription errors"
+734,"DSNY_003","32","UNK050",,"D03ALW14","D03SAB14","no transcription errors"
+735,"DSNY_003","40","VAMY3",,"D03ALW14","D03SAB14","no transcription errors"
+736,"DSNY_003","40","SAGI",,"D03ALW14","D03SAB14","no transcription errors"
+737,"DSNY_003","40","LYAP3",,"D03ALW14","D03SAB14","no transcription errors"
+738,"DSNY_003","40","HYCI",,"D03ALW14","D03SAB14","no transcription errors"
+739,"DSNY_003","40","PIGR4",,"D03ALW14","D03SAB14","no transcription errors"
+740,"DSNY_003","40","ARSP3",,"D03ALW14","D03SAB14","no transcription errors"
+741,"DSNY_003","40","ANGL2",,"D03ALW14","D03SAB14","no transcription errors"
+742,"DSNY_003","40","PTPY2",,"D03ALW14","D03SAB14","no transcription errors"
+743,"DSNY_003","40","POSE7","cf. species","D03ALW14","D03SAB14","no transcription errors"
+744,"DSNY_003","41","VIRO3",,"D03ALW14","D03SAB14","no transcription errors"
+745,"DSNY_003","41","CHFL2",,"D03ALW14","D03SAB14","no transcription errors"
+746,"DSNY_003","41","RUAR2",,"D03ALW14","D03SAB14","no transcription errors"
+747,"DSNY_003","41","PIEL",,"D03ALW14","D03SAB14","no transcription errors"
+748,"DSNY_003","41","POLU",,"D03ALW14","D03SAB14","no transcription errors"
+749,"DSNY_003","41","BERA3",,"D03ALW14","D03SAB14","no transcription errors"
+750,"DSNY_003","41","STSY",,"D03ALW14","D03SAB14","no transcription errors"
+751,"OSBS_048","31","COER",,"D03ALW14","D03ESP24","no transcription errors"
+752,"OSBS_048","31","ARFL2",,"D03ALW14","D03ESP24","no transcription errors"
+753,"OSBS_048","31","SPJU",,"D03ALW14","D03ESP24","no transcription errors"
+754,"OSBS_048","31","POPR4",,"D03ALW14","D03ESP24","no transcription errors"
+755,"OSBS_048","31","STSY",,"D03ALW14","D03ESP24","no transcription errors"
+756,"OSBS_048","31","UNK350",,"D03ALW14","D03ESP24","no transcription errors"
+757,"OSBS_048","31","DIAC",,"D03ALW14","D03ESP24","no transcription errors"
+758,"OSBS_048","31","HOPR",,"D03ALW14","D03ESP24","no transcription errors"
+759,"OSBS_048","31","ARSE3",,"D03ALW14","D03ESP24","no transcription errors"
+760,"OSBS_048","31","ANVI2",,"D03ALW14","D03ESP24","no transcription errors"
+761,"OSBS_048","31","VIPA18",,"D03ALW14","D03ESP24","no transcription errors"
+762,"OSBS_048","31","PIGR4",,"D03ALW14","D03ESP24","no transcription errors"
+763,"OSBS_048","31","TIUS",,"D03ALW14","D03ESP24","no transcription errors"
+764,"OSBS_048","31","DIVI5",,"D03ALW14","D03ESP24","no transcription errors"
+765,"OSBS_048","32","QUIN",,"D03ALW14","D03ESP24","no transcription errors"
+766,"OSBS_048","32","PTPY2",,"D03ALW14","D03ESP24","no transcription errors"
+767,"OSBS_048","32","SPJU","cf. species","D03ALW14","D03ESP24","no transcription errors"
+768,"OSBS_048","32","HOPR",,"D03ALW14","D03ESP24","no transcription errors"
+769,"OSBS_048","32","SOOD","cf. species","D03ALW14","D03ESP24","no transcription errors"
+770,"OSBS_048","32","STBI2",,"D03ALW14","D03ESP24","no transcription errors"
+771,"OSBS_048","32","ARFL2",,"D03ALW14","D03ESP24","no transcription errors"
+772,"OSBS_048","32","PASE5",,"D03ALW14","D03ESP24","no transcription errors"
+773,"OSBS_048","32","VIFL","cf. species","D03ALW14","D03ESP24","no transcription errors"
+774,"OSBS_048","32","RHRE",,"D03ALW14","D03ESP24","no transcription errors"
+775,"OSBS_048","32","EUCA5",,"D03ALW14","D03ESP24","no transcription errors"
+776,"OSBS_048","32","STPAA",,"D03ALW14","D03ESP24","no transcription errors"
+777,"OSBS_048","32","PIPA2",,"D03ALW14","D03ESP24","no transcription errors"
+778,"OSBS_048","40","SOOD",,"D03ALW14","D03GJA05","no transcription errors"
+779,"OSBS_048","40","ANVI2",,"D03ALW14","D03GJA05","no transcription errors"
+780,"OSBS_048","40","PTPY2",,"D03ALW14","D03GJA05","no transcription errors"
+781,"OSBS_048","40","QULA2",,"D03ALW14","D03GJA05","no transcription errors"
+782,"OSBS_048","40","PASE5",,"D03ALW14","D03GJA05","no transcription errors"
+783,"OSBS_048","40","CHNI",,"D03ALW14","D03GJA05","no transcription errors"
+784,"OSBS_048","40","RHRE",,"D03ALW14","D03GJA05","no transcription errors"
+785,"OSBS_048","41","CHNI2",,"D03ALW14","D03GJA05","no transcription errors"
+786,"OSBS_048","41","DIVI5",,"D03ALW14","D03GJA05","no transcription errors"
+787,"OSBS_048","41","UNK364",,"D03ALW14","D03GJA05","no transcription errors"
+788,"OSBS_048","41","UNK350",,"D03ALW14","D03GJA05","no transcription errors"
+789,"DSNY_033","31","WOVI",,"D03MLK24","D03JAK04","no transcription errors"
+790,"DSNY_033","31","UNK1023",,"D03MLK24","D03JAK04","no transcription errors"
+791,"DSNY_033","31","XYBR",,"D03MLK24","D03JAK04","no transcription errors"
+792,"DSNY_033","31","CYPER",,"D03MLK24","D03JAK04","no transcription errors"
+793,"DSNY_033","31","UNK1026",,"D03MLK24","D03JAK04","no transcription errors"
+794,"DSNY_033","31","ILGL",,"D03MLK24","D03JAK04","no transcription errors"
+795,"DSNY_033","31","UNK1011",,"D03MLK24","D03JAK04","no transcription errors"
+796,"DSNY_033","31","RHCH3",,"D03MLK24","D03JAK04","no transcription errors"
+797,"DSNY_033","32","UNK1019",,"D03MLK24","D03JAK04","no transcription errors"
+798,"DSNY_033","32","LAAN",,"D03MLK24","D03JAK04","no transcription errors"
+799,"DSNY_033","32","UNK1026",,"D03MLK24","D03JAK04","no transcription errors"
+800,"DSNY_033","32","XYBR",,"D03MLK24","D03JAK04","no transcription errors"
+801,"DSNY_033","32","ARBE7",,"D03MLK24","D03JAK04","no transcription errors"
+802,"DSNY_033","32","PONA2",,"D03MLK24","D03JAK04","no transcription errors"
+803,"DSNY_033","32","RHMA","cf. species","D03MLK24","D03JAK04","no transcription errors"
+804,"DSNY_033","32","UNK1029A",,"D03MLK24","D03JAK04","no transcription errors"
+805,"DSNY_033","32","UNK1015",,"D03MLK24","D03JAK04","no transcription errors"
+806,"DSNY_033","32","UNK1029B",,"D03MLK24","D03JAK04","no transcription errors"
+807,"DSNY_033","32","UNK1020",,"D03MLK24","D03JAK04","no transcription errors"
+808,"DSNY_033","32","UNK1023",,"D03MLK24","D03JAK04","no transcription errors"
+809,"DSNY_033","32","SYFL",,"D03MLK24","D03JAK04","no transcription errors"
+810,"DSNY_033","32","UNK1018",,"D03MLK24","D03JAK04","no transcription errors"
+811,"DSNY_033","32","DRCA2","cf. species","D03MLK24","D03JAK04","no transcription errors"
+812,"DSNY_033","32","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+813,"DSNY_033","32","DIDIE",,"D03MLK24","D03JAK04","no transcription errors"
+814,"DSNY_033","32","UNK1019",,"D03MLK24","D03JAK04","no transcription errors"
+815,"DSNY_033","40","RHNU2","cf. species","D03MLK24","D03JAK04","no transcription errors"
+816,"DSNY_033","40","UNK1023",,"D03MLK24","D03JAK04","no transcription errors"
+817,"DSNY_033","40","DIAC2",,"D03MLK24","D03JAK04","no transcription errors"
+818,"DSNY_033","40","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+819,"DSNY_033","40","UNK1022",,"D03MLK24","D03JAK04","no transcription errors"
+820,"DSNY_033","40","ANCA4",,"D03MLK24","D03JAK04","no transcription errors"
+821,"DSNY_033","40","POUR2",,"D03MLK24","D03JAK04","no transcription errors"
+822,"DSNY_033","40","DIER4",,"D03MLK24","D03JAK04","no transcription errors"
+823,"DSNY_033","40","XYEL2",,"D03MLK24","D03JAK04","no transcription errors"
+824,"DSNY_033","40","DIDIE",,"D03MLK24","D03JAK04","no transcription errors"
+825,"DSNY_033","41","PIPA2",,"D03MLK24","D03JAK04","no transcription errors"
+826,"DSNY_033","41","UNK1035",,"D03MLK24","D03JAK04","no transcription errors"
+827,"DSNY_033","41","PIEL","cf. species","D03MLK24","D03JAK04","no transcription errors"
+828,"DSNY_033","41","RHMA","cf. species","D03MLK24","D03JAK04","no transcription errors"
+829,"DSNY_033","41","UNK1022",,"D03MLK24","D03JAK04","no transcription errors"
+830,"OSBS_006","31","HOPR",,"D03MLK24","D03SAM17","no transcription errors"
+831,"OSBS_006","31","SMAU",,"D03MLK24","D03SAM17","no transcription errors"
+832,"OSBS_006","31","DIAC",,"D03MLK24","D03SAM17","no transcription errors"
+833,"OSBS_006","31","ARPU",,"D03MLK24","D03SAM17","no transcription errors"
+834,"OSBS_006","31","CRRO5",,"D03MLK24","D03SAM17","no transcription errors"
+835,"OSBS_006","31","SPJU",,"D03MLK24","D03SAM17","no transcription errors"
+836,"OSBS_006","31","DYOB",,"D03MLK24","D03SAM17","no transcription errors"
+837,"OSBS_006","31","CRPU7",,"D03MLK24","D03SAM17","no transcription errors"
+838,"OSBS_006","31","DIOV",,"D03MLK24","D03SAM17","no transcription errors"
+839,"OSBS_006","31","COCA","cf. genus","D03MLK24","D03SAM17","no transcription errors"
+840,"OSBS_006","31","UNK350",,"D03MLK24","D03SAM17","no transcription errors"
+841,"OSBS_006","32","CARG25",,"D03MLK24","D03KCM04","no transcription errors"
+842,"OSBS_006","32","ARPUP4",,"D03MLK24","D03KCM04","no transcription errors"
+843,"OSBS_006","32","CHFL2",,"D03MLK24","D03KCM04","no transcription errors"
+844,"OSBS_006","32","PIPA2",,"D03MLK24","D03KCM04","no transcription errors"
+845,"OSBS_006","32","DIDI6",,"D03MLK24","D03KCM04","no transcription errors"
+846,"OSBS_006","32","OPHU",,"D03MLK24","D03KCM04","no transcription errors"
+847,"OSBS_006","32","CRRO5",,"D03MLK24","D03KCM04","no transcription errors"
+848,"OSBS_006","32","SACA",,"D03MLK24","D03KCM04","no transcription errors"
+849,"OSBS_006","32","CLMA4",,"D03MLK24","D03KCM04","no transcription errors"
+850,"OSBS_006","32","CNURS",,"D03MLK24","D03KCM04","no transcription errors"
+851,"OSBS_006","32","TRUR",,"D03MLK24","D03KCM04","no transcription errors"
+852,"OSBS_006","40","ASIN12",,"D03MLK24","D03KCM04","no transcription errors"
+853,"OSBS_006","40","CAGR25",,"D03MLK24","D03KCM04","no transcription errors"
+854,"OSBS_006","40","UNK357",,"D03MLK24","D03KCM04","no transcription errors"
+855,"OSBS_006","40","CNURS",,"D03MLK24","D03KCM04","no transcription errors"
+856,"OSBS_006","40","ERTO2",,"D03MLK24","D03KCM04","no transcription errors"
+857,"OSBS_006","40","OPHU",,"D03MLK24","D03KCM04","no transcription errors"
+858,"OSBS_006","40","CRAR2",,"D03MLK24","D03KCM04","no transcription errors"
+859,"OSBS_006","40","LIATR","cf. species","D03MLK24","D03KCM04","no transcription errors"
+860,"OSBS_006","41","COCA","cf. genus","D03MLK24","D03KCM04","no transcription errors"
+861,"OSBS_006","41","ASIN12",,"D03MLK24","D03KCM04","no transcription errors"
+862,"OSBS_006","41","ARPUP4",,"D03MLK24","D03KCM04","no transcription errors"
+863,"OSBS_006","41","STSY",,"D03MLK24","D03KCM04","no transcription errors"
+864,"OSBS_006","41","CRAR2",,"D03MLK24","D03KCM04","no transcription errors"
+865,"OSBS_006","41","OPHU",,"D03MLK24","D03KCM04","no transcription errors"
+866,"OSBS_006","41","SMAU",,"D03MLK24","D03KCM04","no transcription errors"
+867,"OSBS_006","41","LIAL",,"D03MLK24","D03KCM04","no transcription errors"
+868,"OSBS_024","31","ANGL2",,"D03DWB07","D03KAL07","no transcription errors"
+869,"OSBS_024","32","CLMA10",,"D03DWB07","D03KAL07","no transcription errors"
+870,"DSNY_014","31","CACO37",,"D03ALW14","D03KMB13","no transcription errors"
+871,"DSNY_014","31","RHMA",,"D03ALW14","D03KMB13","changed RHMAM2 to RHMA"
+872,"DSNY_014","31","LEMI","cf. species","D03ALW14","D03KMB13","no transcription errors"
+873,"DSNY_014","31","QUPU80","cf. species","D03ALW14","D03KMB13","no transcription errors"
+874,"DSNY_014","31","UNK056",,"D03ALW14","D03KMB13","no transcription errors"
+875,"DSNY_014","31","ARSP3",,"D03ALW14","D03KMB13","no transcription errors"
+876,"DSNY_014","31","BERA3",,"D03ALW14","D03KMB13","no transcription errors"
+877,"DSNY_014","32","LYFE",,"D03ALW14","D03KMB13","no transcription errors"
+878,"DSNY_014","32","ARSP3",,"D03ALW14","D03KMB13","no transcription errors"
+879,"DSNY_014","32","UNK058",,"D03ALW14","D03KMB13","no transcription errors"
+880,"DSNY_014","32","EUCA26",,"D03ALW14","D03KMB13","no transcription errors"
+881,"DSNY_014","32","VAST",,"D03ALW14","D03KMB13","no transcription errors"
+882,"DSNY_014","32","POSE7",,"D03ALW14","D03KMB13","no transcription errors"
+883,"DSNY_014","32","HYCI",,"D03ALW14","D03KMB13","no transcription errors"
+884,"DSNY_014","32","ELEL3",,"D03ALW14","D03KMB13","no transcription errors"
+885,"DSNY_014","32","BERA3",,"D03ALW14","D03KMB13","no transcription errors"
+886,"DSNY_014","40","HYCI",,"D03ALW14","D03KMB13","no transcription errors"
+887,"DSNY_014","40","XYBR",,"D03ALW14","D03KMB13","no transcription errors"
+888,"DSNY_014","40","ARSP3",,"D03ALW14","D03KMB13","no transcription errors"
+889,"DSNY_014","40","FIDI",,"D03ALW14","D03KMB13","no transcription errors"
+890,"DSNY_014","40","POSE7",,"D03ALW14","D03KMB13","no transcription errors"
+891,"DSNY_014","40","UNK060",,"D03ALW14","D03KMB13","no transcription errors"
+892,"DSNY_014","40","CHNI2",,"D03ALW14","D03KMB13","no transcription errors"
+893,"DSNY_014","40","BERA3",,"D03ALW14","D03KMB13","no transcription errors"
+894,"DSNY_014","41","PIGR4",,"D03ALW14","D03KMB13","no transcription errors"
+895,"DSNY_014","41","ILGL",,"D03ALW14","D03KMB13","no transcription errors"
+896,"DSNY_014","41","MOCE2",,"D03ALW14","D03KMB13","no transcription errors"
+897,"DSNY_014","41","PIEL",,"D03ALW14","D03KMB13","no transcription errors"
+898,"DSNY_074","31","HYHY",,"D03DWB07","D03ALW14",
+899,"DSNY_074","31","SERE2",,"D03DWB07","D03ALW14",
+900,"DSNY_074","31","EUCA26",,"D03DWB07","D03ALW14",
+901,"DSNY_074","31","UNK010",,"D03DWB07","D03ALW14",
+902,"DSNY_074","32","MIMI22",,"D03DWB07","D03ALW14",
+903,"DSNY_074","32","ASRE7",,"D03DWB07","D03ALW14",
+904,"DSNY_074","32","VAMY3",,"D03DWB07","D03ALW14",
+905,"DSNY_074","32","RHMA",,"D03DWB07","D03ALW14",
+906,"DSNY_074","32","POPR4",,"D03DWB07","D03ALW14",
+910,"JERC_003","32","SMAU",,"D03MLK24","D03KMB13","no transcription errors"
+911,"JERC_003","32","UNK081",,"D03MLK24","D03KMB13","no transcription errors"
+912,"JERC_003","32","UNK01031",,"D03MLK24","D03KMB13","no transcription errors"
+913,"JERC_003","32","TIUS",,"D03MLK24","D03KMB13","no transcription errors"
+914,"JERC_003","32","MAGR4",,"D03MLK24","D03KMB13","no transcription errors"
+915,"JERC_003","32","SMRO",,"D03MLK24","D03KMB13","no transcription errors"
+916,"JERC_003","32","UNK082",,"D03MLK24","D03KMB13","no transcription errors"
+917,"JERC_003","32","VIAE",,"D03MLK24","D03KMB13","no transcription errors"
+918,"JERC_003","32","PLPO2",,"D03MLK24","D03KMB13","no transcription errors"
+919,"JERC_003","32","QUNI",,"D03MLK24","D03KMB13","no transcription errors"
+920,"JERC_003","32","PAQU2",,"D03MLK24","D03KMB13","no transcription errors"
+921,"JERC_003","32","CATO6",,"D03MLK24","D03KMB13","no transcription errors"
+922,"JERC_003","40","ASAN6",,"D03MLK24","D03KMB13","no transcription errors"
+923,"JERC_003","40","QUNI",,"D03MLK24","D03KMB13","no transcription errors"
+924,"JERC_003","40","ACSA3",,"D03MLK24","D03KMB13","no transcription errors"
+925,"JERC_003","40","SYDU2","cf. species","D03MLK24","D03KMB13","no transcription errors"
+926,"JERC_003","40","UNK040",,"D03MLK24","D03KMB13","no transcription errors"
+927,"JERC_003","40","HECA4",,"D03MLK24","D03KMB13","no transcription errors"
+928,"JERC_003","40","GADU",,"D03MLK24","D03KMB13","no transcription errors"
+929,"JERC_003","40","DIVI5",,"D03MLK24","D03KMB13","changed DIVIS to DIVI5"
+930,"JERC_003","40","SMBO",,"D03MLK24","D03KMB13","no transcription errors"
+931,"JERC_003","40","SMRO",,"D03MLK24","D03KMB13","no transcription errors"
+932,"JERC_003","40","CECA",,"D03MLK24","D03KMB13","no transcription errors"
+933,"JERC_003","40","UNK1031",,"D03MLK24","D03KMB13","no transcription errors"
+934,"JERC_003","40","GAPI2",,"D03MLK24","D03KMB13","no transcription errors"
+935,"JERC_003","40","ULAM",,"D03MLK24","D03KMB13","no transcription errors"
+936,"JERC_003","40","EUPU2",,"D03MLK24","D03KMB13","no transcription errors"
+937,"JERC_003","40","PLPO2",,"D03MLK24","D03KMB13","no transcription errors"
+938,"JERC_003","40","FRPE",,"D03MLK24","D03KMB13","no transcription errors"
+939,"JERC_003","40","TRUR",,"D03MLK24","D03KMB13","no transcription errors"
+940,"JERC_003","40","CATO",,"D03MLK24","D03KMB13","no transcription errors"
+941,"JERC_003","40","PRCA",,"D03MLK24","D03KMB13","no transcription errors"
+942,"JERC_003","40","VIRO3",,"D03MLK24","D03KMB13","no transcription errors"
+943,"JERC_003","40","TOPU2",,"D03MLK24","D03KMB13","no transcription errors"
+944,"JERC_003","40","TORA2",,"D03MLK24","D03KMB13","no transcription errors"
+945,"JERC_003","40","BICA",,"D03MLK24","D03KMB13","no transcription errors"
+946,"JERC_003","40","ELEL3",,"D03MLK24","D03KMB13","no transcription errors"
+947,"JERC_003","40","UNK088",,"D03MLK24","D03KMB13","no transcription errors"
+948,"JERC_003","41","JUVI",,"D03DWB07","D03ESP24","changed JUVIS to JUVI"
+949,"JERC_003","41","AMFR",,"D03DWB07","D03ESP24","no transcription errors"
+950,"JERC_003","41","AMAR5",,"D03DWB07","D03ESP24","no transcription errors"
+951,"JERC_003","41","VIAE",,"D03DWB07","D03ESP24","no transcription errors"
+952,"JERC_003","41","OPHI",,"D03DWB07","D03ESP24","no transcription errors"
+953,"JERC_003","41","SAMI8",,"D03DWB07","D03ESP24","no transcription errors"
+954,"JERC_003","41","PLPO2",,"D03DWB07","D03ESP24","no transcription errors"
+955,"JERC_003","41","ASPL",,"D03DWB07","D03ESP24","no transcription errors"
+956,"JERC_003","41","QUVI",,"D03DWB07","D03ESP24","no transcription errors"
+957,"JERC_003","41","FRCA3",,"D03DWB07","D03ESP24","no transcription errors"
+958,"JERC_003","41","UNK1034","cf. species","D03DWB07","D03ESP24","no transcription errors"
+959,"JERC_003","41","UNK1033","cf. species","D03DWB07","D03ESP24","no transcription errors"
+960,"JERC_003","41","VAAR",,"D03DWB07","D03ESP24","no transcription errors"
+961,"JERC_003","41","SMBO2",,"D03DWB07","D03ESP24","no transcription errors"
+962,"JERC_003","41","DIVI5",,"D03DWB07","D03ESP24","no transcription errors"
+963,"JERC_003","41","SMPU",,"D03DWB07","D03ESP24","no transcription errors"
+964,"JERC_003","41","CACA18",,"D03DWB07","D03ESP24","no transcription errors"
+965,"JERC_021","31","UNK048",,"D03MLK24","D03MLK24","no transcription errors"
+966,"JERC_021","31","SAAL5",,"D03MLK24","D03MLK24","no transcription errors"
+967,"JERC_021","31","VAST",,"D03MLK24","D03MLK24","no transcription errors"
+968,"JERC_021","31","PAVI2","cf. species","D03MLK24","D03MLK24","no transcription errors"
+969,"JERC_021","31","CRRO5",,"D03MLK24","D03MLK24","no transcription errors"
+970,"JERC_021","31","MUCA2",,"D03MLK24","D03MLK24","no transcription errors"
+971,"JERC_021","31","UNK030",,"D03MLK24","D03MLK24","no transcription errors"
+972,"JERC_021","31","SIEL",,"D03MLK24","D03MLK24","no transcription errors"
+973,"JERC_021","31","ANCA4",,"D03MLK24","D03MLK24","no transcription errors"
+974,"JERC_021","31","DIAC2",,"D03MLK24","D03MLK24","no transcription errors"
+975,"JERC_021","31","RHTO3",,"D03MLK24","D03MLK24","no transcription errors"
+976,"JERC_021","31","UNK048",,"D03MLK24","D03MLK24","no transcription errors"
+977,"JERC_021","31","UNK049",,"D03MLK24","D03MLK24","no transcription errors"
+978,"JERC_021","31","UNK060",,"D03MLK24","D03MLK24","no transcription errors"
+979,"JERC_021","32","EUHY","cf. species","D03MLK24","D03KMB13","no transcription errors"
+980,"JERC_021","32","CYFI",,"D03MLK24","D03KMB13","no transcription errors"
+981,"JERC_021","32","SMSM",,"D03MLK24","D03KMB13","no transcription errors"
+982,"JERC_021","32","PAIN6",,"D03MLK24","D03KMB13","no transcription errors"
+983,"JERC_021","32","RUTR","cf. species","D03MLK24","D03KMB13","no transcription errors"
+984,"JERC_021","32","CLMA4",,"D03MLK24","D03KMB13","no transcription errors"
+985,"JERC_021","32","UNK054",,"D03MLK24","D03KMB13","no transcription errors"
+986,"JERC_021","32","TOPU2",,"D03MLK24","D03KMB13","no transcription errors"
+987,"JERC_021","32","POPO",,"D03MLK24","D03KMB13","no transcription errors"
+988,"JERC_021","32","SAAL21",,"D03MLK24","D03KMB13","no transcription errors"
+989,"JERC_021","40","RUHI2",,"D03MLK24","D03KMB13","no transcription errors"
+990,"JERC_021","40","UNK049",,"D03MLK24","D03KMB13","no transcription errors"
+991,"JERC_003","31","CACA18",,"D03MLK24","D03KMB13","no transcription errors"
+992,"JERC_003","31","SAMA8","cf. species","D03MLK24","D03KMB13","no transcription errors"
+993,"JERC_003","31","CECA4",,"D03MLK24","D03KMB13","no transcription errors"
+994,"JERC_003","31","VIRO3",,"D03MLK24","D03KMB13","no transcription errors"
+995,"JERC_003","31","COFO",,"D03MLK24","D03KMB13","no transcription errors"
+996,"JERC_003","31","SMPU",,"D03MLK24","D03KMB13","no transcription errors"
+997,"JERC_003","31","SMLA",,"D03MLK24","D03KMB13","no transcription errors"
+998,"JERC_003","31","ARTO3",,"D03MLK24","D03KMB13","no transcription errors"
+999,"JERC_003","31","VISO",,"D03MLK24","D03KMB13","no transcription errors"
+1000,"JERC_003","31","DIVI5",,"D03MLK24","D03KMB13","no transcription errors"
+1001,"JERC_003","31","EUPU7",,"D03MLK24","D03KMB13","no transcription errors"
+1002,"JERC_003","31","DICO2","cf. species","D03MLK24","D03KMB13","no transcription errors"
+1003,"JERC_003","31","STHU2",,"D03MLK24","D03KMB13","no transcription errors"
+1004,"JERC_003","31","RUCU",,"D03MLK24","D03KMB13","no transcription errors"
+1005,"JERC_003","31","ANCA4",,"D03MLK24","D03KMB13","no transcription errors"
+1006,"JERC_003","31","TEFL",,"D03MLK24","D03KMB13","no transcription errors"
+1007,"JERC_003","31","ACGR2",,"D03MLK24","D03KMB13","no transcription errors"
+1008,"JERC_003","31","QUVI",,"D03MLK24","D03KMB13","no transcription errors"
+1009,"JERC_003","31","SMRO",,"D03MLK24","D03KMB13","no transcription errors"
+1010,"JERC_021","40","VEAN",,"D03MLK24","D03KMB13","no transcription errors"
+1011,"JERC_021","40","PIPA2",,"D03MLK24","D03KMB13","changed GIPI2 to PIPA2"
+1012,"JERC_021","40","HYHY",,"D03MLK24","D03KMB13","changed HYHYH to HYHY"
+1013,"JERC_021","40","UNK037",,"D03MLK24","D03KMB13","no transcription errors"
+1014,"JERC_021","40","TOPU2",,"D03MLK24","D03KMB13","no transcription errors"
+1015,"JERC_021","40","UNK036",,"D03MLK24","D03KMB13","no transcription errors"
+1016,"JERC_021","40","PHHE5",,"D03MLK24","D03KMB13","no transcription errors"
+1017,"JERC_021","40","UNK058",,"D03MLK24","D03KMB13","no transcription errors"
+1018,"JERC_021","40","UNK046",,"D03MLK24","D03KMB13","no transcription errors"
+1019,"JERC_021","41","LEVI7",,"D03MLK24","D03KMB13","no transcription errors"
+1020,"JERC_021","41","UNK047",,"D03MLK24","D03KMB13","no transcription errors"
+1021,"JERC_021","41","SAAL5",,"D03MLK24","D03KMB13","no transcription errors"
+1022,"JERC_021","41","LEMI",,"D03MLK24","D03KMB13","no transcription errors"
+1023,"JERC_021","41","GAPI2",,"D03MLK24","D03KMB13","no transcription errors"
+1024,"JERC_021","41","POGR11",,"D03MLK24","D03KMB13","changed POGR to POGR11"
+1025,"JERC_021","41","UNK049",,"D03MLK24","D03KMB13","no transcription errors"
+1026,"JERC_021","41","RHRE",,"D03MLK24","D03KMB13","no transcription errors"
+1027,"JERC_021","41","UNK045",,"D03MLK24","D03KMB13","no transcription errors"
+1028,"JERC_021","41","ANVI2",,"D03MLK24","D03KMB13","no transcription errors"
+1029,"JERC_021","41","DISP2",,"D03MLK24","D03KMB13","no transcription errors"
+1030,"JERC_021","41","RUAR2",,"D03MLK24","D03KMB13","no transcription errors"
+1031,"JERC_021","41","ARBE7",,"D03MLK24","D03KMB13","no transcription errors"
+1032,"JERC_021","41","UNK056",,"D03MLK24","D03KMB13","no transcription errors"
+1033,"JERC_021","41","SMBO2",,"D03MLK24","D03KMB13","changed SMBO to SMBO2"
+1034,"JERC_021","41","UNK053",,"D03MLK24","D03KMB13","no transcription errors"
+1035,"JERC_021","41","SCIN2",,"D03MLK24","D03KMB13","no transcription errors"
+1036,"JERC_021","41","UNK055",,"D03MLK24","D03KMB13","no transcription errors"
+1037,"JERC_002","31","ELEL3",,"D03MLK24","D03KMB13","no transcription errors"
+1038,"JERC_002","31","CYFI",,"D03MLK24","D03KMB13","no transcription errors"
+1039,"JERC_002","31","VAST",,"D03MLK24","D03KMB13","no transcription errors"
+1040,"JERC_002","31","UNK009",,"D03MLK24","D03KMB13","no transcription errors"
+1041,"JERC_002","31","PIPA2",,"D03MLK24","D03KMB13","no transcription errors"
+1042,"JERC_002","31","TEFL",,"D03MLK24","D03KMB13","no transcription errors"
+1043,"JERC_002","31","GAMO",,"D03MLK24","D03KMB13","no transcription errors"
+1044,"JERC_002","31","SMAU",,"D03MLK24","D03KMB13","no transcription errors"
+1045,"JERC_002","31","PAVI2",,"D03MLK24","D03KMB13","no transcription errors"
+1046,"JERC_002","31","ASAM",,"D03MLK24","D03KMB13","no transcription errors"
+1047,"JERC_002","32","TRWA",,"D03MLK24","D03KMB13","no transcription errors"
+1048,"JERC_002","32","LEPR",,"D03MLK24","D03KMB13","no transcription errors"
+1049,"JERC_002","32","PECA25",,"D03MLK24","D03KMB13","no transcription errors"
+1050,"JERC_002","32","CRGL2",,"D03MLK24","D03KMB13","no transcription errors"
+1051,"JERC_002","32","IPPA",,"D03MLK24","D03KMB13","no transcription errors"
+1052,"JERC_002","32","SAAL5",,"D03MLK24","D03KMB13","no transcription errors"
+1053,"JERC_002","32","QUIN",,"D03MLK24","D03KMB13","no transcription errors"
+1054,"JERC_002","32","PHHE5",,"D03MLK24","D03KMB13","no transcription errors"
+1055,"JERC_002","32","VEFO",,"D03MLK24","D03KMB13","changed DEFO3 into VEFO"
+1056,"JERC_002","32","UNK009",,"D03MLK24","D03KMB13","no transcription errors"
+1057,"JERC_002","32","DIVI5",,"D03MLK24","D03KMB13","no transcription errors"
+1058,"JERC_002","32","RHDI2",,"D03MLK24","D03KMB13","no transcription errors"
+1059,"JERC_002","32","LIEL","cf. species","D03MLK24","D03KMB13","changed LIELE to LIEL"
+1060,"JERC_002","32","CNUR",,"D03MLK24","D03KMB13","no transcription errors"
+1061,"JERC_002","32","UNK0012",,"D03MLK24","D03KMB13","no transcription errors"
+1062,"JERC_002","32","GAFI2",,"D03MLK24","D03KMB13","no transcription errors"
+1063,"JERC_002","32","GYAM",,"D03MLK24","D03KMB13","no transcription errors"
+1064,"JERC_002","32","TEFL",,"D03MLK24","D03KMB13","no transcription errors"
+1065,"JERC_002","32","STSY",,"D03MLK24","D03KMB13","no transcription errors"
+1066,"JERC_002","32","DEST2",,"D03MLK24","D03KMB13","no transcription errors"
+1067,"JERC_002","32","DEMA2",,"D03MLK24","D03KMB13","no transcription errors"
+1068,"JERC_002","32","GAPI2",,"D03MLK24","D03KMB13","no transcription errors"
+1069,"JERC_002","40","SAAL5",,"D03MLK24","D03JAK04","no transcription errors"
+1070,"JERC_002","40","SYCO3",,"D03MLK24","D03JAK04","no transcription errors"
+1071,"JERC_002","40","VIPA7",,"D03MLK24","D03JAK04","no transcription errors"
+1072,"JERC_002","40","ANVI2","cf. species","D03MLK24","D03JAK04","no transcription errors"
+1073,"JERC_002","40","PHHE5",,"D03MLK24","D03JAK04","no transcription errors"
+1074,"JERC_002","40","GYAM",,"D03MLK24","D03JAK04","no transcription errors"
+1075,"JERC_002","40","RHHA",,"D03MLK24","D03JAK04","no transcription errors"
+1076,"JERC_002","40","DEFL3",,"D03MLK24","D03JAK04","no transcription errors"
+1077,"JERC_002","40","ARPU8",,"D03MLK24","D03JAK04","no transcription errors"
+1078,"JERC_002","40","SCTE5",,"D03MLK24","D03JAK04","no transcription errors"
+1079,"JERC_002","40","UNK006",,"D03MLK24","D03JAK04","no transcription errors"
+1080,"JERC_002","40","CRRO5",,"D03MLK24","D03JAK04","no transcription errors"
+1081,"JERC_002","40","HOPR",,"D03MLK24","D03JAK04","no transcription errors"
+1082,"JERC_002","40","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+1083,"JERC_002","40","VIPR4",,"D03MLK24","D03JAK04","no transcription errors"
+1084,"JERC_002","41","PIPA2",,"D03MLK24","D03JAK04","no transcription errors"
+1085,"JERC_002","41","RUCA4",,"D03MLK24","D03JAK04","no transcription errors"
+1086,"JERC_002","41","CHMA14",,"D03MLK24","D03JAK04","no transcription errors"
+1087,"JERC_002","41","CLMA4",,"D03MLK24","D03JAK04","no transcription errors"
+1088,"JERC_002","41","EULA2","cf. species","D03MLK24","D03JAK04","no transcription errors"
+1089,"JERC_002","41","LIEL","cf. species","D03MLK24","D03JAK04","no transcription errors"
+1090,"JERC_002","41","CRRO5",,"D03MLK24","D03JAK04","no transcription errors"
+1091,"JERC_002","41","ACGR2",,"D03MLK24","D03JAK04","no transcription errors"
+1092,"JERC_002","41","DEMA2",,"D03MLK24","D03JAK04","no transcription errors"
+1093,"JERC_002","41","ASAN6",,"D03MLK24","D03JAK04","no transcription errors"
+1094,"JERC_002","41","CRGL2","cf. species","D03MLK24","D03JAK04","no transcription errors"
+1095,"JERC_009","31","PIPA2",,"D03KMB13","D03JAK04","no transcription errors"
+1096,"JERC_009","31","HOPR",,"D03KMB13","D03JAK04","no transcription errors"
+1097,"JERC_009","31","VIRO3",,"D03KMB13","D03JAK04","no transcription errors"
+1098,"JERC_009","31","SMBO2",,"D03KMB13","D03JAK04","no transcription errors"
+1099,"JERC_009","31","OXRU","cf. species","D03KMB13","D03JAK04","no transcription errors"
+1100,"JERC_009","31","LIGR9","cf. species","D03KMB13","D03JAK04","no transcription errors"
+1101,"JERC_009","31","GAPI2",,"D03KMB13","D03JAK04","no transcription errors"
+1102,"JERC_009","31","IOLI2",,"D03KMB13","D03JAK04","no transcription errors"
+1103,"JERC_009","31","QUST","cf. species","D03KMB13","D03JAK04","no transcription errors"
+1104,"JERC_009","31","EUCA5",,"D03KMB13","D03JAK04","no transcription errors"
+1105,"JERC_009","31","ASAN6",,"D03KMB13","D03JAK04","no transcription errors"
+1106,"JERC_009","31","SMSM",,"D03KMB13","D03JAK04","no transcription errors"
+1107,"JERC_009","31","SPFI",,"D03KMB13","D03JAK04","no transcription errors"
+1108,"JERC_009","32","ARBE7",,"D03MLK24","D03SAM17","no transcription errors"
+1109,"JERC_009","32","UNK027",,"D03MLK24","D03SAM17","no transcription errors"
+1110,"JERC_009","32","GAER",,"D03MLK24","D03SAM17","no transcription errors"
+1111,"JERC_009","32","TRSM",,"D03MLK24","D03SAM17","no transcription errors"
+1112,"JERC_009","32","SAGI","cf. species","D03MLK24","D03SAM17","no transcription errors"
+1113,"JERC_009","32","GYAM",,"D03MLK24","D03SAM17","no transcription errors"
+1114,"JERC_009","32","ARPU8",,"D03MLK24","D03SAM17","no transcription errors"
+1115,"JERC_009","32","IPPA",,"D03MLK24","D03SAM17","no transcription errors"
+1116,"JERC_009","32","VIRO3",,"D03MLK24","D03SAM17","no transcription errors"
+1117,"JERC_009","32","ASLO",,"D03MLK24","D03SAM17","no transcription errors"
+1118,"JERC_009","32","PRSE2",,"D03MLK24","D03SAM17","no transcription errors"
+1119,"JERC_009","32","PIPA2",,"D03MLK24","D03SAM17","no transcription errors"
+1120,"JERC_009","32","SYCO3",,"D03MLK24","D03SAM17","no transcription errors"
+1121,"JERC_009","32","CRFL2",,"D03MLK24","D03SAM17","no transcription errors"
+1122,"JERC_009","32","SYAD",,"D03MLK24","D03SAM17","no transcription errors"
+1123,"JERC_009","32","DEMA2","cf. species","D03MLK24","D03SAM17","no transcription errors"
+1124,"JERC_009","32","SPFI",,"D03MLK24","D03SAM17","no transcription errors"
+1125,"JERC_009","32","UNK030",,"D03MLK24","D03SAM17","no transcription errors"
+1126,"JERC_009","40","PRSE2",,"D03MLK24","D03SAM17","no transcription errors"
+1127,"JERC_009","40","DIVI5",,"D03MLK24","D03SAM17","no transcription errors"
+1128,"JERC_009","40","UNK032",,"D03MLK24","D03SAM17","no transcription errors"
+1129,"JERC_009","40","UNK025",,"D03MLK24","D03SAM17","no transcription errors"
+1130,"JERC_009","40","PIPA2",,"D03MLK24","D03SAM17","no transcription errors"
+1131,"JERC_009","40","PAVI2",,"D03MLK24","D03SAM17","no transcription errors"
+1132,"JERC_009","40","VADA",,"D03MLK24","D03SAM17","no transcription errors"
+1133,"JERC_009","40","CRGL2",,"D03MLK24","D03SAM17","no transcription errors"
+1134,"JERC_009","40","RUCA4",,"D03MLK24","D03SAM17","no transcription errors"
+1135,"JERC_009","40","HOPR",,"D03MLK24","D03SAM17","no transcription errors"
+1136,"JERC_009","40","UNK006",,"D03MLK24","D03SAM17","no transcription errors"
+1137,"JERC_009","40","DELI2",,"D03MLK24","D03SAM17","no transcription errors"
+1138,"JERC_009","40","LIEL","cf. species","D03MLK24","D03SAM17","no transcription errors"
+1139,"JERC_009","40","SMBO2",,"D03MLK24","D03SAM17","no transcription errors"
+1140,"JERC_009","40","PECA25",,"D03MLK24","D03SAM17","no transcription errors"
+1141,"JERC_009","40","ANVI2","cf. species","D03MLK24","D03SAM17","no transcription errors"
+1142,"JERC_009","40","PASE5",,"D03MLK24","D03SAM17","no transcription errors"
+1143,"JERC_009","40","SCSC","cf. species","D03MLK24","D03SAM17","no transcription errors"
+1144,"JERC_009","41","HOPR",,"D03MLK24","D03SAM17","no transcription errors"
+1145,"JERC_009","41","PIRO3",,"D03MLK24","D03SAM17","no transcription errors"
+1146,"JERC_009","41","EUCA5",,"D03MLK24","D03SAM17","no transcription errors"
+1147,"JERC_009","41","CRRO5",,"D03MLK24","D03SAM17","no transcription errors"
+1148,"JERC_009","41","QUIN",,"D03MLK24","D03SAM17","no transcription errors"
+1149,"JERC_009","41","DIDI6",,"D03MLK24","D03SAM17","no transcription errors"
+1150,"JERC_009","41","DEMA2",,"D03MLK24","D03SAM17","no transcription errors"
+1151,"JERC_009","41","RHHA",,"D03MLK24","D03SAM17","changed taxon id from RHHAC to RHHA"
+1152,"JERC_009","41","PRSE2",,"D03MLK24","D03SAM17","no transcription errors"
+1153,"JERC_009","41","TOPU2",,"D03MLK24","D03SAM17","no transcription errors"
+1154,"JERC_009","41","GAPI2",,"D03MLK24","D03SAM17","no transcription errors"
+1155,"JERC_009","41","CLMA4",,"D03MLK24","D03SAM17","no transcription errors"
+1156,"JERC_013","31","QUFA",,"D03DWB07","D03ESP24","no transcription errors"
+1157,"JERC_013","31","POPO",,"D03DWB07","D03ESP24","no transcription errors"
+1158,"JERC_013","31","QUHE2",,"D03DWB07","D03ESP24","no transcription errors"
+1159,"JERC_013","31","VAAR",,"D03DWB07","D03ESP24","no transcription errors"
+1160,"JERC_013","31","LEAN",,"D03DWB07","D03ESP24","no transcription errors"
+1161,"JERC_013","31","CEVI2",,"D03DWB07","D03ESP24","changed CAEV12 to CEVI2"
+1162,"JERC_013","32","DIVI5",,"D03MLK24","D03KMB13","no transcription errors"
+1163,"JERC_013","32","POPO",,"D03MLK24","D03KMB13","no transcription errors"
+1164,"JERC_013","32","DELI3",,"D03MLK24","D03KMB13","no transcription errors"
+1165,"JERC_013","32","DEMA2",,"D03MLK24","D03KMB13","no transcription errors"
+1166,"JERC_013","32","GYAM",,"D03MLK24","D03KMB13","no transcription errors"
+1167,"JERC_013","32","UNK043",,"D03MLK24","D03KMB13","no transcription errors"
+1168,"JERC_013","32","STUM2",,"D03MLK24","D03KMB13","no transcription errors"
+1169,"JERC_013","32","ANVI2",,"D03MLK24","D03KMB13","no transcription errors"
+1170,"JERC_013","40","CRFL2",,"D03ALW14","D03ESP24","changed UNK1009 to CRFL2"
+1171,"JERC_013","40","SPFL3",,"D03ALW14","D03ESP24","no transcription errors"
+1172,"DSNY_027","31","PTPY2",,"D03DWB07","D03GJA05","no transcription errors found"
+1173,"DSNY_027","31","ELEL3",,"D03DWB07","D03GJA05","no transcription errors found"
+1174,"DSNY_027","31","ANGL2",,"D03DWB07","D03GJA05","no transcription errors found"
+1175,"DSNY_027","31","BERA3",,"D03DWB07","D03GJA05","no transcription errors found"
+1176,"DSNY_027","32","PTPY2",,"D03DWB07","D03GJA05","no transcription errors found"
+1177,"DSNY_027","32","MOCE2",,"D03DWB07","D03GJA05","no transcription errors found"
+1178,"DSNY_027","32","RHNA",,"D03DWB07","D03GJA05","no transcription errors found"
+1179,"DSNY_027","32","CHNI2",,"D03DWB07","D03GJA05","no transcription errors found"
+1180,"DSNY_027","32","RHPE",,"D03DWB07","D03GJA05","no transcription errors found"
+1181,"DSNY_027","40","RHPE",,"D03DWB07","D03GJA05","no transcription errors found"
+1182,"DSNY_027","40","WOVI",,"D03DWB07","D03GJA05","no transcription errors found"
+1183,"DSNY_027","40","CAOD3",,"D03DWB07","D03GJA05","no transcription errors found"
+1184,"DSNY_027","40","RHNA",,"D03DWB07","D03GJA05","no transcription errors found"
+1185,"DSNY_027","40","BERA3",,"D03DWB07","D03GJA05","no transcription errors found"
+1186,"DSNY_027","40","HYCI",,"D03DWB07","D03GJA05","no transcription errors found"
+1187,"DSNY_027","41","BERA3",,"D03DWB07","D03GJA05","no transcription errors found"
+1188,"DSNY_027","41","EUCA26",,"D03DWB07","D03GJA05","no transcription errors found"
+1189,"JERC_013","41","ASAN6","cf. species","D03ALW14","D03ESP24","no transcription errors"
+1190,"JERC_013","41","QUHE2",,"D03ALW14","D03ESP24","no transcription errors"
+1191,"JERC_013","41","PRAN3",,"D03ALW14","D03ESP24","no transcription errors"
+1192,"JERC_013","41","HOPR",,"D03ALW14","D03ESP24","no transcription errors"
+1193,"JERC_013","41","CUCO2","cf. species","D03ALW14","D03ESP24","no transcription errors"
+1194,"JERC_013","41","SIXE",,"D03ALW14","D03ESP24","no transcription errors"
+1195,"JERC_013","41","GAPI2",,"D03ALW14","D03ESP24","no transcription errors"
+1196,"JERC_013","41","DEFL3",,"D03ALW14","D03ESP24","no transcription errors"
+1197,"JERC_013","41","SOCA3",,"D03ALW14","D03ESP24","no transcription errors"
+1198,"JERC_013","41","HYHY","cf. species","D03ALW14","D03ESP24","changed UNK1011 to HYHY"
+1199,"JERC_013","41","UNK1014","cf. species","D03ALW14","D03ESP24","no transcription errors"
+1200,"JERC_013","41","TRFL2",,"D03ALW14","D03ESP24","no transcription errors"
+1201,"JERC_013","41","STBI2",,"D03ALW14","D03ESP24","no transcription errors"
+1202,"JERC_011","31","ASAN6","cf. species","D03DWB07","D03ESP24","no transcription errors"
+1203,"JERC_011","31","PRAN3",,"D03DWB07","D03ESP24","no transcription errors"
+1204,"JERC_011","31","EUCA5",,"D03DWB07","D03ESP24","no transcription errors"
+1205,"JERC_011","31","HYHY",,"D03DWB07","D03ESP24","no transcription errors"
+1206,"JERC_011","31","SONU2",,"D03DWB07","D03ESP24","no transcription errors"
+1207,"JERC_011","31","SCCI",,"D03DWB07","D03ESP24","no transcription errors"
+1208,"JERC_011","31","JATA",,"D03DWB07","D03ESP24","no transcription errors"
+1209,"JERC_011","31","LEAN",,"D03DWB07","D03ESP24","no transcription errors"
+1210,"JERC_011","31","EUCO7",,"D03DWB07","D03ESP24","no transcription errors"
+1211,"JERC_011","31","SCTE5",,"D03DWB07","D03ESP24","no transcription errors"
+1212,"JERC_011","32","HYHY",,"D03DWB07","D03ESP24","no transcription errors"
+1213,"JERC_011","32","TOPU2",,"D03DWB07","D03ESP24","no transcription errors"
+1214,"JERC_011","32","EUCO7",,"D03DWB07","D03ESP24","no transcription errors"
+1215,"JERC_011","32","QUGE2",,"D03DWB07","D03ESP24","no transcription errors"
+1216,"JERC_011","32","GAMO2","cf. species","D03DWB07","D03ESP24","no transcription errors"
+1217,"JERC_011","32","COLA5",,"D03DWB07","D03ESP24","no transcription errors"
+1218,"JERC_011","32","STBI2",,"D03DWB07","D03ESP24","no transcription errors"
+1219,"JERC_011","32","HOPR",,"D03DWB07","D03ESP24","no transcription errors"
+1220,"JERC_011","32","EUCA5",,"D03DWB07","D03ESP24","no transcription errors"
+1221,"JERC_011","32","PRAN3",,"D03DWB07","D03ESP24","no transcription errors"
+1222,"JERC_011","32","LIGR10","cf. species","D03DWB07","D03ESP24","no transcription errors"
+1223,"JERC_011","32","PHHE5","cf. species","D03DWB07","D03ESP24","no transcription errors"
+1224,"JERC_011","40","GAMO2",,"D03DWB07","D03ESP24","no transcription errors"
+1225,"JERC_011","40","SAAL21",,"D03DWB07","D03ESP24","no transcription errors"
+1226,"JERC_011","40","DACA8",,"D03DWB07","D03ESP24","no transcription errors"
+1227,"JERC_011","40","PRSE2",,"D03DWB07","D03ESP24","no transcription errors"
+1228,"JERC_011","40","GYAM",,"D03DWB07","D03ESP24","no transcription errors"
+1229,"JERC_011","40","PHHE5",,"D03DWB07","D03ESP24","no transcription errors"
+1230,"JERC_011","40","EUCO7",,"D03DWB07","D03ESP24","no transcription errors"
+1231,"JERC_011","40","UNK1019","cf. species","D03DWB07","D03ESP24","no transcription errors"
+1232,"JERC_011","40","TOPU2",,"D03DWB07","D03ESP24","no transcription errors"
+1233,"JERC_011","41","PIPA2",,"D03DWB07","D03ESP24","no transcription errors"
+1234,"JERC_011","41","HECA4",,"D03DWB07","D03ESP24","no transcription errors"
+1235,"JERC_011","41","ASAN6",,"D03DWB07","D03ESP24","no transcription errors"
+1236,"JERC_011","41","QUST",,"D03DWB07","D03ESP24","no transcription errors"
+1237,"JERC_011","41","SMSM",,"D03DWB07","D03ESP24","no transcription errors"
+1238,"JERC_011","41","VADA",,"D03DWB07","D03ESP24","no transcription errors"
+1239,"JERC_011","41","CLMA4",,"D03DWB07","D03ESP24","no transcription errors"
+1240,"JERC_011","41","VAST",,"D03DWB07","D03ESP24","no transcription errors"
+1241,"JERC_011","41","EUCO7",,"D03DWB07","D03ESP24","no transcription errors"
+1242,"JERC_011","41","QUHE2",,"D03DWB07","D03ESP24","no transcription errors"
+1243,"JERC_011","41","LIGR10","cf. species","D03DWB07","D03ESP24","changed LIGR4 to LIGR10"
+1244,"JERC_011","41","TRUR2",,"D03DWB07","D03ESP24","no transcription errors"
+1245,"JERC_011","41","IPPA",,"D03DWB07","D03ESP24","no transcription errors"
+1246,"JERC_002","41","VESC",,"D03MLK24","D03JAK04","no transcription errors"
+1247,"DSNY_018","31","VAMY3",,"D03DWB07","D03SAB14","no transcription errors"
+1248,"DSNY_018","31","CHNI2",,"D03DWB07","D03SAB14","no transcription errors"
+1249,"DSNY_018","31","GAEL2",,"D03DWB07","D03SAB14","no transcription errors"
+1250,"DSNY_018","31","SOAL6",,"D03DWB07","D03SAB14","no transcription errors"
+1251,"JERC_013","40","SONU2",,"D03ALW14","D03ESP24","no transcription errors"
+1252,"JERC_013","40","VADA",,"D03ALW14","D03ESP24","no transcription errors"
+1253,"JERC_013","40","HEAN2",,"D03ALW14","D03ESP24","no transcription errors"
+1254,"JERC_013","40","HYHY",,"D03ALW14","D03ESP24","no transcription errors"
+1255,"JERC_013","40","POGR11",,"D03ALW14","D03ESP24","no transcription errors"
+1256,"JERC_013","40","EUPU7",,"D03ALW14","D03ESP24","no transcription errors"
+1257,"JERC_013","40","UNK1005",,"D03ALW14","D03ESP24","no transcription errors"
+1258,"JERC_013","40","MUCA2",,"D03ALW14","D03ESP24","no transcription errors"
+1259,"JERC_013","41","QUNI",,"D03ALW14","D03ESP24","no transcription errors"
+1260,"DSNY_018","31","EULE3",,"D03DWB07","D03SAB14","no transcription errors"
+1261,"DSNY_018","31","CAAM2",,"D03DWB07","D03SAB14","no transcription errors"
+1262,"DSNY_018","31","VAEL","cf. species","D03DWB07","D03SAB14","no transcription errors"
+1263,"DSNY_018","31","RHMA",,"D03DWB07","D03SAB14","no transcription errors"
+1264,"DSNY_018","32","ILGL",,"D03DWB07","D03SAB14","no transcription errors"
+1265,"DSNY_018","32","VAMY3",,"D03DWB07","D03SAB14","no transcription errors"
+1266,"DSNY_018","32","HYTE4",,"D03DWB07","D03SAB14","no transcription errors"
+1267,"DSNY_018","32","UNK065",,"D03DWB07","D03SAB14","no transcription errors"
+1268,"DSNY_018","40","GRHI2",,"D03DWB07","D03SAB14","no transcription errors"
+1269,"DSNY_018","40","ANGL2",,"D03DWB07","D03SAB14","no transcription errors"
+1270,"DSNY_018","40","PIPA2",,"D03DWB07","D03SAB14","no transcription errors"
+1271,"DSNY_018","40","RHNA",,"D03DWB07","D03SAB14","no transcription errors"
+1272,"DSNY_018","40","SMSM",,"D03DWB07","D03SAB14","no transcription errors"
+1273,"DSNY_018","41","RHNA",,"D03DWB07","D03SAB14","no transcription errors"
+1274,"DSNY_018","41","SMSM",,"D03DWB07","D03SAB14","no transcription errors"
+1275,"DSNY_018","41","SYFL",,"D03DWB07","D03SAB14","no transcription errors"
+1276,"DSNY_018","41","ARBE7",,"D03DWB07","D03SAB14","no transcription errors"
+1277,"DSNY_009","40","LUAL2",,"D03DWB07","D03ALW14",
+1278,"DSNY_001","41","GAVO",,"D03ESP24","D03JAK04","no transcription errors"
+1279,"DSNY_001","41","ELEL3",,"D03ESP24","D03JAK04","no transcription errors"
+1280,"DSNY_001","41","GAEL2",,"D03ESP24","D03JAK04","no transcription errors"
+1281,"DSNY_001","41","CAOR10",,"D03ESP24","D03JAK04","no transcription errors"
+1282,"DSNY_001","41","CARPH","cf. species","D03ESP24","D03JAK04","no transcription errors"
+1283,"DSNY_001","41","FIPU",,"D03ESP24","D03JAK04","no transcription errors"
+1284,"DSNY_001","41","SCBA2",,"D03ESP24","D03JAK04","no transcription errors"
+1285,"DSNY_001","41","GRHI2",,"D03ESP24","D03JAK04","no transcription errors"
+1286,"DSNY_001","40","POSE7",,"D03MLK24","D03SAM17","no transcription errors"
+1287,"DSNY_001","32","CARPH","cf. species","D03MLK24","D03SAM17","no transcription errors"
+1288,"DSNY_001","32","GARE2",,"D03MLK24","D03SAM17","no transcription errors"
+1289,"DSNY_001","32","DIDIE",,"D03MLK24","D03SAM17","no transcription errors"
+1290,"DSNY_001","32","ELEL3",,"D03MLK24","D03SAM17","no transcription errors"
+1291,"DSNY_004","31","RHNA",,"D03DWB07","D03KMB13","no transcription errors"
+1292,"DSNY_004","32","ANGL2",,"D03DWB07","D03KMB13","no transcription errors"
+1293,"DSNY_004","32","GADU",,"D03DWB07","D03KMB13","no transcription errors"
+1294,"DSNY_004","32","SMLA3",,"D03DWB07","D03KMB13","no transcription errors"
+1295,"DSNY_004","32","PORU5",,"D03DWB07","D03KMB13","no transcription errors"
+1296,"DSNY_004","32","PEPA37",,"D03DWB07","D03KMB13","no transcription errors"
+1297,"DSNY_004","32","ARSP3",,"D03DWB07","D03KMB13","no transcription errors"
+1298,"DSNY_004","32","UNK069",,"D03DWB07","D03KMB13","no transcription errors"
+1299,"DSNY_004","32","RHNA",,"D03DWB07","D03KMB13","no transcription errors"
+1300,"DSNY_004","40","PORU5",,"D03DWB07","D03KMB13","no transcription errors"
+1301,"DSNY_004","40","MOCE4",,"D03DWB07","D03KMB13","no transcription errors"
+1302,"DSNY_004","40","GADU",,"D03DWB07","D03KMB13","no transcription errors"
+1303,"DSNY_004","40","SMLA",,"D03DWB07","D03KMB13","no transcription errors"
+1304,"DSNY_004","40","DIAC2",,"D03DWB07","D03KMB13","no transcription errors"
+1305,"DSNY_004","40","RHCO",,"D03DWB07","D03KMB13","no transcription errors"
+1306,"DSNY_004","40","LEAX",,"D03DWB07","D03KMB13","no transcription errors"
+1307,"DSNY_004","41","PORU5",,"D03DWB07","D03KMB13","no transcription errors"
+1308,"DSNY_004","41","HYCI",,"D03DWB07","D03KMB13","no transcription errors"
+1309,"DSNY_004","41","POSE7",,"D03DWB07","D03KMB13","no transcription errors"
+1310,"DSNY_004","41","RHCH3",,"D03DWB07","D03KMB13","no transcription errors"
+1311,"JERC_005","31","ANVI4",,"D03MLK24","D03ESP24",
+1312,"JERC_005","31","PIPA2",,"D03MLK24","D03ESP24",
+1313,"JERC_005","31","PHHE5",,"D03MLK24","D03ESP24",
+1314,"JERC_005","31","UNK012",,"D03MLK24","D03ESP24",
+1315,"JERC_005","31","RUHI2",,"D03MLK24","D03ESP24",
+1316,"JERC_005","31","LEMI",,"D03MLK24","D03ESP24",
+1317,"JERC_005","31","DIVI5",,"D03MLK24","D03ESP24",
+1318,"JERC_005","31","LIATR","cf. species","D03MLK24","D03ESP24",
+1319,"JERC_005","31","HOPR",,"D03MLK24","D03ESP24",
+1320,"JERC_005","31","SYDU2",,"D03MLK24","D03ESP24",
+1321,"JERC_005","31","IPPA",,"D03MLK24","D03ESP24",
+1322,"JERC_005","32","RHHA","cf. species","D03MLK24","D03ESP24",
+1323,"JERC_005","32","UNK093",,"D03MLK24","D03ESP24",
+1324,"JERC_005","32","SONU2",,"D03MLK24","D03ESP24",
+1325,"JERC_005","32","TEFL2",,"D03MLK24","D03ESP24",
+1326,"JERC_005","32","PICI",,"D03MLK24","D03ESP24",
+1327,"JERC_005","32","EUCA5",,"D03MLK24","D03ESP24",
+1328,"JERC_005","32","HOPR",,"D03MLK24","D03ESP24",
+1329,"JERC_005","32","GAVO",,"D03MLK24","D03ESP24",
+1330,"JERC_005","32","STUM2",,"D03MLK24","D03ESP24",
+1331,"JERC_005","32","SCIN2",,"D03MLK24","D03ESP24",
+1332,"JERC_005","32","EUHY",,"D03MLK24","D03ESP24",
+1333,"JERC_005","40","PIPA2",,"D03MLK24","D03ESP24",
+1334,"JERC_005","40","TEFL2",,"D03MLK24","D03ESP24",
+1335,"JERC_005","40","CRFL2",,"D03MLK24","D03ESP24",
+1336,"JERC_005","40","LEMI",,"D03MLK24","D03ESP24",
+1337,"JERC_005","40","ELEL3",,"D03MLK24","D03ESP24",
+1338,"JERC_005","40","CNURS",,"D03MLK24","D03ESP24",
+1339,"JERC_005","40","SMSM",,"D03MLK24","D03ESP24",
+1340,"JERC_005","40","PHHE5",,"D03MLK24","D03ESP24",
+1341,"JERC_005","40","LITE6",,"D03MLK24","D03ESP24",
+1342,"JERC_005","40","CRRO5",,"D03MLK24","D03ESP24",
+1343,"JERC_005","40","ACGR2",,"D03MLK24","D03ESP24",
+1344,"JERC_005","40","CHMA14",,"D03MLK24","D03ESP24",
+1345,"JERC_005","40","LERE2",,"D03MLK24","D03ESP24",
+1346,"JERC_005","40","DEFL3",,"D03MLK24","D03ESP24",
+1347,"JERC_005","40","UNK012",,"D03MLK24","D03ESP24",
+1348,"JERC_005","40","UNK091",,"D03MLK24","D03ESP24",
+1349,"JERC_005","40","SCIN2",,"D03MLK24","D03ESP24",
+1350,"JERC_005","40","LIEL",,"D03MLK24","D03ESP24",
+1351,"JERC_005","40","GAMO2",,"D03MLK24","D03ESP24",
+1352,"JERC_005","40","IPPA",,"D03MLK24","D03ESP24",
+1353,"JERC_005","41","PIPA2",,"D03MLK24","D03ESP24",
+1354,"JERC_005","41","SYAD",,"D03MLK24","D03ESP24",
+1355,"JERC_005","41","PHHE5",,"D03MLK24","D03ESP24",
+1356,"JERC_005","41","RUCU",,"D03MLK24","D03ESP24",
+1357,"JERC_005","41","DIVI5",,"D03MLK24","D03ESP24",
+1358,"DSNY_001","31","DIDI6",,"D03MLK24","D03SAM17","no transcription errors"
+1359,"DSNY_001","31","GAEL2",,"D03MLK24","D03SAM17","no transcription errors"
+1360,"DSNY_001","31","EUPO5",,"D03MLK24","D03SAM17","no transcription errors"
+1361,"DSNY_001","31","FIPU",,"D03MLK24","D03SAM17","no transcription errors"
+1362,"DSNY_001","31","UNK1063",,"D03MLK24","D03SAM17","no transcription errors"
+1363,"DSNY_001","31","HYJU","cf. species","D03MLK24","D03SAM17","no transcription errors"
+1364,"DSNY_001","31","LYFE",,"D03MLK24","D03SAM17","no transcription errors"
+1365,"JERC_005","41","UNK008",,"D03MLK24","D03ESP24",
+1366,"JERC_005","41","DACA8",,"D03MLK24","D03ESP24",
+1367,"JERC_005","41","TEFL2",,"D03MLK24","D03ESP24",
+1368,"JERC_005","41","VESC",,"D03MLK24","D03ESP24",
+1369,"JERC_005","41","SCIN2",,"D03MLK24","D03ESP24",
+1370,"JERC_005","41","CRFL2",,"D03MLK24","D03ESP24",
+1371,"JERC_005","41","ERTO2",,"D03MLK24","D03ESP24",
+1372,"JERC_005","41","LYAP3",,"D03MLK24","D03ESP24",
+1373,"JERC_001","31","PIPA2",,"D03MLK24","D03ESP24",
+1374,"JERC_001","31","RUCA4",,"D03MLK24","D03ESP24",
+1375,"JERC_001","31","PAIN6",,"D03MLK24","D03ESP24",
+1376,"JERC_001","31","VAAR",,"D03MLK24","D03ESP24",
+1377,"JERC_001","31","UNK105",,"D03MLK24","D03ESP24",
+1378,"JERC_001","31","MIQU2",,"D03MLK24","D03ESP24",
+1379,"JERC_001","31","AMAR2",,"D03MLK24","D03ESP24",
+1380,"JERC_001","31","HIGR3",,"D03MLK24","D03ESP24",
+1381,"JERC_001","31","EUPU7",,"D03MLK24","D03ESP24",
+1382,"JERC_001","31","HECO3",,"D03MLK24","D03ESP24",
+1383,"JERC_001","31","DISP2",,"D03MLK24","D03ESP24",
+1384,"JERC_001","31","CIHO2",,"D03MLK24","D03ESP24",
+1385,"JERC_001","31","VEGI","cf. species","D03MLK24","D03ESP24",
+1386,"JERC_001","31","PAQU2",,"D03MLK24","D03ESP24",
+1387,"JERC_001","31","SECA4","cf. genus","D03MLK24","D03ESP24",
+1388,"JERC_001","32","UNK106",,"D03MLK24","D03ESP24",
+1389,"JERC_001","32","LERE2",,"D03MLK24","D03ESP24",
+1390,"JERC_001","32","VAMY3",,"D03MLK24","D03ESP24",
+1391,"JERC_001","32","VIRO3",,"D03MLK24","D03ESP24",
+1392,"JERC_001","32","SYDU2",,"D03MLK24","D03ESP24",
+1393,"JERC_001","32","SPCO16",,"D03MLK24","D03ESP24",
+1394,"JERC_001","32","TORA2",,"D03MLK24","D03ESP24",
+1395,"JERC_001","32","VIAE",,"D03MLK24","D03ESP24",
+1396,"JERC_001","32","UNK101",,"D03MLK24","D03ESP24",
+1397,"JERC_001","32","AMAR2",,"D03MLK24","D03ESP24",
+1398,"JERC_001","32","TOPU2",,"D03MLK24","D03ESP24",
+1399,"JERC_001","32","AXFI",,"D03MLK24","D03ESP24",
+1400,"JERC_001","32","RUCA4",,"D03MLK24","D03ESP24",
+1401,"JERC_001","32","VEGI",,"D03MLK24","D03ESP24",
+1402,"JERC_001","40","UNK092",,"D03MLK24","D03ESP24",
+1403,"JERC_001","40","ASMI12",,"D03MLK24","D03ESP24",
+1404,"JERC_001","40","PIGR4",,"D03MLK24","D03ESP24",
+1405,"JERC_001","40","SCIN2",,"D03MLK24","D03ESP24",
+1406,"JERC_001","40","VAAR",,"D03MLK24","D03ESP24",
+1407,"JERC_001","40","SMBO",,"D03MLK24","D03ESP24",
+1408,"JERC_001","40","ARSE3",,"D03MLK24","D03ESP24",
+1409,"JERC_001","40","PAVI2",,"D03MLK24","D03ESP24",
+1410,"JERC_001","40","SYDU2",,"D03MLK24","D03ESP24",
+1411,"JERC_001","40","DISP2",,"D03MLK24","D03ESP24",
+1412,"JERC_001","40","AMAR2",,"D03MLK24","D03ESP24",
+1413,"JERC_001","40","VIAE",,"D03MLK24","D03ESP24",
+1414,"JERC_001","40","COCA5",,"D03MLK24","D03ESP24",
+1415,"JERC_001","40","GACO11",,"D03MLK24","D03ESP24",
+1416,"JERC_001","40","UNK105",,"D03MLK24","D03ESP24",
+1417,"JERC_001","40","PAQU2",,"D03MLK24","D03ESP24",
+1418,"JERC_001","40","ARBE7",,"D03MLK24","D03ESP24",
+1419,"JERC_001","40","TRUR",,"D03MLK24","D03ESP24",
+1420,"JERC_001","41","AMAR2",,"D03MLK24","D03ESP24",
+1421,"JERC_001","41","QUVI","cf. species","D03MLK24","D03ESP24",
+1422,"JERC_001","41","ASMI12",,"D03MLK24","D03ESP24",
+1423,"JERC_001","41","TRUR",,"D03MLK24","D03ESP24",
+1424,"JERC_001","41","PIPA2",,"D03MLK24","D03ESP24",
+1425,"JERC_001","41","SOCA3",,"D03MLK24","D03ESP24",
+1426,"JERC_001","41","VISO",,"D03MLK24","D03ESP24",
+1427,"JERC_001","41","MIQU2",,"D03MLK24","D03ESP24",
+1428,"JERC_001","41","ARSE3",,"D03MLK24","D03ESP24",
+1429,"DSNY_006","31","GAHI",,"D03DWB07","D03GJA05","no transcription errors"
+1430,"DSNY_006","31","EUCA26",,"D03DWB07","D03GJA05","no transcription errors"
+1431,"DSNY_006","31","SMAU",,"D03DWB07","D03GJA05","no transcription errors"
+1432,"DSNY_006","31","UNK087",,"D03DWB07","D03GJA05","no transcription errors"
+1433,"DSNY_006","31","HECA4",,"D03DWB07","D03GJA05","no transcription errors"
+1434,"DSNY_006","32","CHSU6",,"D03DWB07","D03GJA05","no transcription errors"
+1435,"DSNY_006","32","PIPA2",,"D03DWB07","D03GJA05","no transcription errors"
+1436,"DSNY_006","32","ANVI2",,"D03DWB07","D03GJA05","no transcription errors"
+1437,"DSNY_006","32","BUAM",,"D03DWB07","D03GJA05","no transcription errors"
+1438,"DSNY_006","32","CRRO5",,"D03DWB07","D03GJA05","no transcription errors"
+1439,"DSNY_006","40","ELEL3",,"D03DWB07","D03GJA05","no transcription errors"
+1440,"DSNY_006","40","XYCA",,"D03DWB07","D03GJA05","no transcription errors"
+1441,"DSNY_006","40","QUCH",,"D03DWB07","D03GJA05","no transcription errors"
+1442,"DSNY_006","40","EUPO5",,"D03DWB07","D03GJA05","no transcription errors"
+1443,"DSNY_006","40","DIDI6",,"D03DWB07","D03GJA05","no transcription errors"
+1444,"DSNY_006","40","OPHU",,"D03DWB07","D03GJA05","no transcription errors"
+1445,"DSNY_006","41","HIGR3",,"D03DWB07","D03GJA05","no transcription errors"
+1446,"DSNY_006","41","OPHU",,"D03DWB07","D03GJA05","no transcription errors"
+1447,"DSNY_006","41","CHMA","cf. species","D03DWB07","D03GJA05","no transcription errors"
+1448,"DSNY_006","41","COER",,"D03DWB07","D03GJA05","no transcription errors"
+1449,"DSNY_006","41","CNURS",,"D03DWB07","D03GJA05","no transcription errors"
+1450,"DSNY_007","31","ERH12",,"D03MLK24","D03JAK04","no transcription errors"
+1451,"DSNY_007","31","EUCA5",,"D03MLK24","D03JAK04","no transcription errors"
+1452,"DSNY_007","31","EUPO4",,"D03MLK24","D03JAK04","no transcription errors"
+1453,"DSNY_007","31","UNK1052",,"D03MLK24","D03JAK04","no transcription errors"
+1454,"DSNY_007","32","QUIN",,"D03MLK24","D03JAK04","no transcription errors"
+1455,"DSNY_007","32","VIRO3",,"D03MLK24","D03JAK04","no transcription errors"
+1456,"DSNY_007","32","CYPO",,"D03MLK24","D03JAK04","no transcription errors"
+1457,"DSNY_007","32","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+1458,"DSNY_007","40","XYCA",,"D03MLK24","D03JAK04","no transcription errors"
+1459,"DSNY_007","40","PASE5",,"D03MLK24","D03JAK04","no transcription errors"
+1460,"DSNY_007","40","QUNI",,"D03MLK24","D03JAK04","no transcription errors"
+1461,"DSNY_007","40","VAMY3",,"D03MLK24","D03JAK04","no transcription errors"
+1462,"DSNY_007","40","ILGL",,"D03MLK24","D03JAK04","no transcription errors"
+1463,"DSNY_007","40","CYPO",,"D03MLK24","D03JAK04","no transcription errors"
+1464,"DSNY_007","41","DIAC2",,"D03MLK24","D03ESP24","no transcription errors"
+1465,"DSNY_007","41","RHPI5",,"D03MLK24","D03ESP24","no transcription errors"
+1466,"DSNY_007","41","UNK1058",,"D03MLK24","D03ESP24","no transcription errors"
+1467,"DSNY_007","41","QUVI2",,"D03MLK24","D03ESP24","no transcription errors"
+1468,"DSNY_007","41","SCCI",,"D03MLK24","D03ESP24","no transcription errors"
+1469,"DSNY_007","41","PHAR14",,"D03MLK24","D03ESP24","no transcription errors"
+1470,"DSNY_007","41","ERH12",,"D03MLK24","D03ESP24","no transcription errors"
+1471,"DSNY_007","41","UNK1043",,"D03MLK24","D03ESP24","no transcription errors"
+1472,"DSNY_020","31","UNK069",,"D03DWB07","D03KLM04","yellow panic"
+1473,"DSNY_020","31","UNK077",,"D03DWB07","D03KLM04","Karens paddle leaf"
+1474,"DSNY_020","31","RHNA",,"D03DWB07","D03KLM04",
+1475,"DSNY_020","31","WOVI",,"D03DWB07","D03KLM04","black stem fern"
+1476,"DSNY_020","31","EUCO7",,"D03DWB07","D03KLM04",
+1477,"DSNY_020","31","MOCE4",,"D03DWB07","D03KLM04",
+1478,"DSNY_020","31","BERA3",,"D03DWB07","D03KLM04","clubroot hairy"
+1479,"DSNY_020","31","QUGE2",,"D03DWB07","D03KLM04",
+1480,"DSNY_020","31","VAMY3",,"D03DWB07","D03KLM04",
+1481,"DSNY_020","32","LYFE",,"D03DWB07","D03KLM04",
+1482,"DSNY_020","32","ERHI2",,"D03DWB07","D03KLM04",
+1483,"DSNY_020","32","ELEL2",,"D03DWB07","D03KLM04",
+1484,"DSNY_020","32","BERA3",,"D03DWB07","D03KLM04","clubroot hairy"
+1485,"DSNY_020","32","HYCI",,"D03DWB07","D03KLM04",
+1486,"DSNY_020","32","ANVI2",,"D03DWB07","D03KLM04",
+1487,"DSNY_020","32","HYTE4",,"D03DWB07","D03KLM04",
+1488,"DSNY_020","32","CAAM2",,"D03DWB07","D03KLM04",
+1489,"DSNY_020","40","QUCH",,"D03DWB07","D03KLM04",
+1490,"DSNY_020","40","VAMY3",,"D03DWB07","D03KLM04",
+1491,"DSNY_020","40","YUFI",,"D03DWB07","D03KLM04",
+1492,"DSNY_020","40","QULA3",,"D03DWB07","D03KLM04",
+1493,"DSNY_020","40","SAPA",,"D03DWB07","D03KLM04",
+1494,"DSNY_020","40","BERA3",,"D03DWB07","D03KLM04","clubroot hairy"
+1495,"DSNY_020","40","HOPR",,"D03DWB07","D03KLM04",
+1496,"DSNY_020","40","CHFL2",,"D03DWB07","D03KLM04","pink bean vine"
+1497,"DSNY_020","41","VAMY3",,"D03DWB07","D03KLM04",
+1498,"DSNY_020","41","YUFI",,"D03DWB07","D03KLM04",
+1499,"DSNY_020","41","CHFL2",,"D03DWB07","D03KLM04","pink rooted gal"

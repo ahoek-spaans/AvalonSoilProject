@@ -32,7 +32,7 @@ for(ename in names(fileListing)) {
 # then a function for assigning the list's name attribute to the individual plyr piece
 ename <- function(x) attr(x, "ename") # states for element name
 
-# # export data from list to individual data frames - l_ply does not produce correct output
+# export data from list to individual data frames - l_ply does not produce correct output
 ldply(fileListing, function(input){
   cli_name = ename(input) # declare name with ename function
   write.csv(input, file = paste(cli_name,".csv", sep="")) # append to file
