@@ -1,0 +1,139 @@
+---
+title: "Linear Models - Start to Finish"
+author: "Cody Flagg"
+date: "August 13th, 2014"
+output: pdf_document
+---
+
+
+# Outline 
+
+## Strategy:
+#
+# 1) Explore Data Structure
+# 2) Explore Data Patterns (EDA)
+# 2b) Building Additional Variables
+# 3) Fit Linear Model(s)
+# 3b) Testing Multiple Hypotheses - Model Comparisons
+# 4) Assess Linear Model
+# 5) Resampling Methods
+
+(from page 63 of Zuur's "Mixed Effects Models..." book)
+
+In this section, we show how confusing GAM becomes if you ignore this step
+of avoiding correlated explanatory variables. We use a plant vegetation data set for
+illustration. Sikkink et al. (2007) analysed grassland data from a monitoring programme
+from two temperate communities in Montana, USA: Yellowstone National
+Park and National Bison Range. The aim of the study was to determine whether the
+biodiversity of these bunchgrass communities changed over time and if they did,
+whether the changes in biodiversity relate to specific environmental factors. Here,
+we use the Yellowstone National Park data. Sikkink et al. (2007) quantified biodiversity
+using species richness to summarise the large number of species: ninety
+species were identified in the study. Richness is defined as the different number of
+species per site. The data were measured in eight different transects and each transect
+was measured repeatedly over time with time intervals of about four to ten
+years. For the moment, we ignore the temporal aspects of the data. And, instead of
+using all 20 or so explanatory variables, we use only those explanatory variables that
+Sikkink et al. (2007) identified as important. Figure 3.18 shows a scatterplot of all
+the variables used in this section. The response variable is species richness for the
+64 observations, and the explanatory variables are rock content (ROCK), litter content
+(LITTER), bare soil (BARESOIL), rainfall in the fall (FallPrec), and maximum
+temperature in the spring (SprTmax). The correlation between ROCK and LITTER
+is reasonably high with a Pearson correlation of -0.7.
+
+```{r}
+# data source: 
+# Alain Zuur Book: http://www.highstat.com/book2.htm
+
+veg <- read.table("C:/Users/cflagg/Documents/exampleData/Vegetation.txt", header = T)
+```
+
+## 1) Explore Data Structure
+
+* What are variable names?
+* What are some summary statistics?
+* Are there any structural issues e.g. missing values, NA's, mixed negative and positive values, categorical variables??
+
+```{r}
+names(veg)
+summary(veg)
+```
+
+* Now, remove NA's
+* Not always a good idea, as this will remove ANY ROW with an NA, so you could be tossing out useful data. 
+* In this case, they are missed sampling years. 
+
+```{r}
+veg <- na.omit(veg) # remove NA's, mostly years with no data
+```
+
+
+# 2) Exploratory Data Analysis (EDA): foundations of building new variables and models
+
+```{r}
+library(car)
+
+# do all variables - have to use "as.formula" to leave quotes out - can also use to copy-paste a nicer formula without typing out
+all_var = as.formula(paste("~", paste(names(veg),collapse = "+")))
+
+# identify variables with dense, clustered distributions - these need transforming
+scatterplotMatrix(all_var, data = veg, reg.line = lm, smoother = FALSE)
+```
+
+```{r}
+# copy-paste new formula here, with all_var
+
+```
+
+## Build a Model
+* What are factors indicative of poverty i.e. kids on free lunch?
+
+```{r}
+# is there upward mobility?
+m1.wealth <- lm(pc_freeLunch ~ pc_incomeChange, data = veg)
+summary(m1.wealth)
+plot(m1.wealth)
+
+# weird neighborhood with 700 crimes per 1000 people
+m2.all <- lm(pc_freeLunch ~ ., data = veg[-7,])
+summary(m2.all)
+
+# visualize effects - this looks similar to a "partial regression/residual plot"
+# http://www.itl.nist.gov/div898/software/dataplot/refman1/auxillar/partregr.htm
+car::crPlots(m2.all, smoother = NULL) # component+residual plots i.e. partial residuals
+# car::avPlots(m2.all) # conditional plots i.e. added-variable plots
+# car::influencePlot(m2.all)
+# car::leveragePlot(m2.all)
+# marginalModelPlots(m2.all) #only marginal plots
+# mcPlot(m2.all, "per1000_crime")  # marginal/conditional plots
+
+# # make a new data frame for prediction - only adjusting per1000_crime, keep everything else at mean
+# nd = with(veg, expand.grid(totalPop = mean(totalPop),
+#             pc_popChange = mean(pc_popChange),
+#             pc_children = mean(pc_children),
+#             pc_incomeChange = mean(pc_incomeChange),
+#             per1000_crime = c(seq(min(per1000_crime),max(per1000_crime)),by=100),
+#             pc_crimeChange = mean(pc_crimeChange)))
+# 
+# 
+# # predict new freeLunch values based on nd
+# fit = predict.lm(m2.all,newdata = nd)
+# 
+# # plot response
+# plot(fit ~ nd$per1000_crime, type ="l", xlim=c(0,250))
+
+```
+
+```{r}
+# library(effects)
+```
+
+
+
+
+
+
+
+
+
+
