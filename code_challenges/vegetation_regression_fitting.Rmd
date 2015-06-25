@@ -48,7 +48,7 @@ is reasonably high with a Pearson correlation of -0.7.
 ```{r}
 # data source: 
 # Alain Zuur Book: http://www.highstat.com/book2.htm
-# the "~" indicates a relative path i.e. a folder path that is potentially shared across computers, but with different user names
+# the "~" indicates a relative path i.e. a folder path that is potentially shared across computers, but with different use
 veg <- read.table("~/GitHub/AvalonSoilProject/code_challenges/Vegetation.txt", header = T)
 ```
 
@@ -93,6 +93,8 @@ all_var = as.formula(paste("~", paste(names(veg),collapse = "+")))
 
 # plot this
 scatterplotMatrix(all_var, data = veg, reg.line = lm, smoother = FALSE)
+
+scatterplotMatrix(~Richness + ROCK + LITTER + BARESOIL + FallPrec + SprTmax, data = veg, smoother = FALSE)
 ```
 
 ### Conclusions from EDA: 
@@ -157,7 +159,6 @@ RSS = the residual sum of squares
 ```{r}
 AIC(m1.temp, m1.litter)
 ```
-
 __Method 2: Examining Model Predictions__
 
 * Can our model predict our own data? If not, it's probably not a good model.
@@ -217,7 +218,7 @@ car::crPlots(m2.all, smoother = NULL) # component+residual plots i.e. partial re
 par(mfrow=c(1,1))
 # create a new data frame with an expanded temperature range
 # keep fall precip and baresoil constant, or else we have to make multiple graphs
-nd = with(veg, expand.grid(SprTmax = seq(8, 20, by = 2),
+nd = with(veg, expand.grid(SprTmax = seq(8, 22, by = 2),
                            FallPrec = mean(FallPrec),
                            BARESOIL = mean(BARESOIL)))
 
