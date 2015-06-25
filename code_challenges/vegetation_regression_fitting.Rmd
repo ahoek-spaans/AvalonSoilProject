@@ -117,9 +117,13 @@ summary(m1.temp) # examine the summary statistics
 
 __Things to Look For__
 * _Residuals_ should be homogeneous or without strong patterns (i.e. the amount of variance should be similar across all values)
+  * This plot is good for examining the independence of the data (Qian, pg. 137)
 * _Normal Q-Q_ plot should show most points falling along the 1-1 line. If there is large deviation at the tails, you may need to transform variables.
+  * This plot is good for checking that the residuals are normally distributed (Qian, pg. 137)
 * _Scale-Location_ shows how large squared residuals are for a specific value; numbered points highlight potential outliers.
 * _Residuals vs. Leverage_ is similar to the last plot; points that fall outside of Cook's distance have too much leverage as outliers and may need to be removed. 
+* __Fitted Values Minus Mean vs. Residuals-Fitted__ rfsplot() in R
+  * Qian pg.139, figure 5.9
 
 ```{r}
 plot(m1.temp)
